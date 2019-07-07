@@ -5,3 +5,6 @@ http://23.237.126.146:80/livestream/investigationdiscovery.m3u8?token=0AtGfhoKy0
 http://23.237.126.146:80/livestream/afizzionados.m3u8?token=-po01DSmCg_Ax4O6XfDaWg&expires=1562444439
 #EXTINF:-1, Fox Sport
 http://23.237.126.146:80/livestream/foxsports1latino.m3u8?token=wBNFD_84jj1BsQwdzyx5fg&expires=1562447212
+#EXTINF:-1, Univision TDN
+http://23.237.126.146:80/livestream/udn.m3u8?token=64dWM_RN4ihQFpKTuVLvdQ&expires=1562547367
+
