@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1, Univision TDN
-http://23.237.126.146:80/livestream/udn.m3u8?token=vuIIfQ3-_K1zky2959CVdg&expires=1562605499
+http://23.237.126.146:80/livestream/udn.m3u8?token=uG7HWuJewhQyleJRFW-t2g&expires=1562616299
 #EXTINF:-1, ID
-http://23.237.126.146:80/livestream/investigationdiscovery.m3u8?token=e1hBfdooAkSipTMaN2FC5A&expires=1562605499
+http://23.237.126.146:80/livestream/investigationdiscovery.m3u8?token=qQVJYcqDqT4tp1kaE0lhmQ&expires=1562616300
 #EXTINF:-1, TDN
-http://23.237.126.146:80/livestream/tdn.m3u8?token=lb0AquDyhAeGXhxGqO9YVg&expires=1562605500
+http://23.237.126.146:80/livestream/tdn.m3u8?token=2pbEdA3TAyh8escc41_3yA&expires=1562616300
 #EXTINF:-1, Warner
-http://23.237.126.146:80/livestream/warner.m3u8?token=WF2y4z-MDZqPBQDNNcvhyQ&expires=1562605500
+http://23.237.126.146:80/livestream/warner.m3u8?token=Sd2opKg_WaTRue06-2Xz9Q&expires=1562616300
 #EXTINF:-1, Afizzionados
-http://23.237.126.146:80/livestream/afizzionados.m3u8?token=E2Wb1lND0UG4_3WbqqctZQ&expires=1562605500
+http://23.237.126.146:80/livestream/afizzionados.m3u8?token=Y9pxUdhwhkPxgkxwnxQZWA&expires=1562616300
