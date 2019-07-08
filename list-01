@@ -1,11 +1,33 @@
 #EXTM3U
 #EXTINF:-1, Univision TDN
-http://23.237.126.146:80/livestream/udn.m3u8?token=uG7HWuJewhQyleJRFW-t2g&expires=1562616299
+http://23.237.126.146:80/livestream/udn.m3u8?token=C36KEiY_JH7DVb5g9P3V_g&expires=1562630700
 #EXTINF:-1, ID
-http://23.237.126.146:80/livestream/investigationdiscovery.m3u8?token=qQVJYcqDqT4tp1kaE0lhmQ&expires=1562616300
+http://23.237.126.146:80/livestream/investigationdiscovery.m3u8?token=sThHk2VoTn22NrFQQPfBbQ&expires=1562630700
 #EXTINF:-1, TDN
-http://23.237.126.146:80/livestream/tdn.m3u8?token=2pbEdA3TAyh8escc41_3yA&expires=1562616300
+http://23.237.126.146:80/livestream/tdn.m3u8?token=yBQ0zxQ5xi6olMfT4Lr-Rw&expires=1562630700
 #EXTINF:-1, Warner
-http://23.237.126.146:80/livestream/warner.m3u8?token=Sd2opKg_WaTRue06-2Xz9Q&expires=1562616300
+http://23.237.126.146:80/livestream/warner.m3u8?token=h212d-OhULLbWuQY_9z25w&expires=1562630700
 #EXTINF:-1, Afizzionados
-http://23.237.126.146:80/livestream/afizzionados.m3u8?token=Y9pxUdhwhkPxgkxwnxQZWA&expires=1562616300
+http://23.237.126.146:80/livestream/afizzionados.m3u8?token=oOpRkhwm203jyl-YqMuRBQ&expires=1562630700
+#EXTINF:-1, Canal 5
+http://23.237.126.146:80/livestream/canal5mx.m3u8?token=Tz_AoxzqjMTnDvdC9FmuRg&expires=1562630700&ref=http://cablegratis.tv/canal-en-vivo/canal-cinco
+#EXTINF:-1, Azteca 7
+http://23.237.126.146:80/livestream/azteca7.m3u8?token=j3h-Yr1t2XFyWxBf1f_Y0g&expires=1562630700
+#EXTINF:-1, Universal
+http://23.237.126.146:80/livestream/universalchannel.m3u8?token=UsNied0rUv5LTxZBlu2QRw&expires=1562630700
+#EXTINF:-1, FX
+http://23.237.126.146:80/livestream/fx.m3u8?token=VALaoRcrRmqvirXUTl2N1g&expires=1562630700
+#EXTINF:-1, Fox action
+http://23.237.126.146:80/livestream/foxaction.m3u8?token=jA_HqHnU9wTm6hkeTWg2lw&expires=1562630700
+#EXTINF:-1, Fox series
+http://23.237.126.146:80/livestream/foxseries.m3u8?token=T7koqGSpEZsdIhIg4Xbd-A&expires=1562630700
+#EXTINF:-1, Fox cinema
+http://23.237.126.146:80/livestream/foxcinema.m3u8?token=Gw7qIe9RlRZ5FBMdXlaVgw&expires=1562630700
+#EXTINF:-1, Fox comedy
+http://23.237.126.146:80/livestream/foxcomedy.m3u8?token=aeL9lMPzCzZPqPstSKOaeg&expires=1562630700
+#EXTINF:-1, Fox movies
+http://23.237.126.146:80/livestream/foxmovies.m3u8?token=VYNibCH8J9yW8kObflGqPQ&expires=1562630700
+#EXTINF:-1, Fox family
+http://23.237.126.146:80/livestream/foxfamily.m3u8?token=tcsOo0D0XvCDIJsSfe9THg&expires=1562630700
+#EXTINF:-1, Fox classics
+http://23.237.126.146:80/livestream/foxclassics.m3u8?token=aYfKuhV0fVPEFz9nrPelOA&expires=1562630700
