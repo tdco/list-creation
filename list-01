@@ -1,111 +1,111 @@
 #EXTM3U
 #EXTINF:-1, Univision TDN
-http://23.237.126.146:80/livestream/udn.m3u8?token=zRwt0FiP-QGzDh829qj4nA&expires=1562637171
+http://23.237.126.146:80/livestream/udn.m3u8?token=WYjB5KV7swnZWRvp17OP0g&expires=1562645100
 #EXTINF:-1, ID
-http://23.237.126.146:80/livestream/investigationdiscovery.m3u8?token=17gd-Jfy2x7Mbs00sCq3_g&expires=1562637171
+http://23.237.126.146:80/livestream/investigationdiscovery.m3u8?token=syBWEA-vR69ioGublGXYJw&expires=1562645100
 #EXTINF:-1, TDN
-http://23.237.126.146:80/livestream/tdn.m3u8?token=v9OyQK66RNk3oVJ-yKCEFw&expires=1562637171
+http://23.237.126.146:80/livestream/tdn.m3u8?token=XQ-Lo3uHragew8pScUfOkQ&expires=1562645100
 #EXTINF:-1, Warner
-http://23.237.126.146:80/livestream/warner.m3u8?token=3RIiJkMsKsj9nTccl_DZiQ&expires=1562637171
+http://23.237.126.146:80/livestream/warner.m3u8?token=hfycNGdYy6vnsNKPIqxE1A&expires=1562645100
 #EXTINF:-1, Afizzionados
-http://23.237.126.146:80/livestream/afizzionados.m3u8?token=gJWR8JbnYr7GXjxAPhZvIA&expires=1562637171
+http://23.237.126.146:80/livestream/afizzionados.m3u8?token=WOuNpTO4gTlKBbj4gfBwRQ&expires=1562645100
 #EXTINF:-1, Canal 5
-http://23.237.126.146:80/livestream/canal5mx.m3u8?token=4CPOgowGquq_D_veeIfT-w&expires=1562637172&ref=http://cablegratis.tv/canal-en-vivo/canal-cinco
+http://23.237.126.146:80/livestream/canal5mx.m3u8?token=hhEZVGqoVou87Hr9x9y3UA&expires=1562645100&ref=http://cablegratis.tv/canal-en-vivo/canal-cinco
 #EXTINF:-1, Azteca 7
-http://23.237.126.146:80/livestream/azteca7.m3u8?token=-Ko5_xSO30Gqy2A_Q-qIbg&expires=1562637172
+http://23.237.126.146:80/livestream/azteca7.m3u8?token=hDmC36vClphvSpA5h9dvyw&expires=1562645100
 #EXTINF:-1, Universal
-http://23.237.126.146:80/livestream/universalchannel.m3u8?token=EtD9fnBcwPyd4G7i3-svdg&expires=1562637172
+http://23.237.126.146:80/livestream/universalchannel.m3u8?token=ZKqeIaAil4pSFxL6HMaGQA&expires=1562645100
 #EXTINF:-1, FX
-http://23.237.126.146:80/livestream/fx.m3u8?token=ZhZErVpIANjtkzXIJfJXxQ&expires=1562637172
+http://23.237.126.146:80/livestream/fx.m3u8?token=UezcwLSnSP_SvOTiBXZZYg&expires=1562645100
 #EXTINF:-1, Fox action
-http://23.237.126.146:80/livestream/foxaction.m3u8?token=Nhx3SW-Z8CLpcRpClekIOQ&expires=1562637172
+http://23.237.126.146:80/livestream/foxaction.m3u8?token=-Jak4Ja7XAUBgHp66T8OtA&expires=1562645100
 #EXTINF:-1, Fox series
-http://23.237.126.146:80/livestream/foxseries.m3u8?token=Vp7fyBnjp34CIv4VBNgr5w&expires=1562637172
+http://23.237.126.146:80/livestream/foxseries.m3u8?token=9nCpwRDuysDO9EC8wBkjZg&expires=1562645101
 #EXTINF:-1, Fox cinema
-http://23.237.126.146:80/livestream/foxcinema.m3u8?token=YtvyQNXTD1N2Zi9Pt21zRw&expires=1562637172
+http://23.237.126.146:80/livestream/foxcinema.m3u8?token=DuIObY3dW3lrc4fdppchAA&expires=1562645101
 #EXTINF:-1, Fox comedy
-http://23.237.126.146:80/livestream/foxcomedy.m3u8?token=yo_FkwQia_1eNit62NCTbQ&expires=1562637172
+http://23.237.126.146:80/livestream/foxcomedy.m3u8?token=bEx2J9CmV8qfM18qLX2V9w&expires=1562645101
 #EXTINF:-1, Fox movies
-http://23.237.126.146:80/livestream/foxmovies.m3u8?token=jdh2u2wvcRxeEihRObn7OA&expires=1562637172
+http://23.237.126.146:80/livestream/foxmovies.m3u8?token=ww7hygQuH6QVH2JadQADxg&expires=1562645101
 #EXTINF:-1, Fox family
-http://23.237.126.146:80/livestream/foxfamily.m3u8?token=hKOKuSnDyvI-BHrRewJKyw&expires=1562637172
+http://23.237.126.146:80/livestream/foxfamily.m3u8?token=hlhRqqNxQRX8DpALvUTeVQ&expires=1562645101
 #EXTINF:-1, Fox classics
-http://23.237.126.146:80/livestream/foxclassics.m3u8?token=HNy-0film4ynMpHb5BW8kg&expires=1562637172
+http://23.237.126.146:80/livestream/foxclassics.m3u8?token=ec7JHzmtniDd1dP99JSU_g&expires=1562645101
 #EXTINF:-1, Golden plus
-http://23.237.126.146:80/livestream/goldenplus.m3u8?token=28el3M6pIgRjAQtx4pcFyQ&expires=1562637172
+http://23.237.126.146:80/livestream/goldenplus.m3u8?token=w5ACSxgZG_8DpQLc2PrUYQ&expires=1562645101
 #EXTINF:-1, Golden premier
-http://23.237.126.146:80/livestream/goldenpremier.m3u8?token=_ypaMSojaA8gyu94ah6iyA&expires=1562637172
+http://23.237.126.146:80/livestream/goldenpremier.m3u8?token=KM-p_xy4Rq7Mtc23VN8Dbw&expires=1562645101
 #EXTINF:-1, Golden edge
-http://23.237.126.146:80/livestream/goldenedge.m3u8?token=KMlZzUfgg0rlXBJbaPCgaA&expires=1562637172
+http://23.237.126.146:80/livestream/goldenedge.m3u8?token=xsqTt3PnucBk3XZvL3MCmg&expires=1562645101
 #EXTINF:-1, National Geographic
-http://23.237.126.146:80/livestream/natgeo.m3u8?token=N_hjsUA9k7SegaOQrhOGpg&expires=1562637172
+http://23.237.126.146:80/livestream/natgeo.m3u8?token=t-La2-n7g6psEUFJNldeZQ&expires=1562645101
 #EXTINF:-1, Discovery channel
-http://23.237.126.146:80/livestream/discoverychannel.m3u8?token=_j4oc7ALCwF-UJZRzNV6IQ&expires=1562637173
+http://23.237.126.146:80/livestream/discoverychannel.m3u8?token=HFeDCu_xvoGgQ8yRCYrEVw&expires=1562645101
 #EXTINF:-1, Univision
-http://23.237.126.146:80/livestream/univision.m3u8?token=ZY36Iwhd_Xeecf2lyEYu2Q&expires=1562637173
+http://23.237.126.146:80/livestream/univision.m3u8?token=GGzJypRyLTXZIm6opylfoQ&expires=1562645101
 #EXTINF:-1, Unicable
-http://23.237.126.146:80/livestream/unicable.m3u8?token=gY44aSIi_uSsunFNCXFi7Q&expires=1562637173
+http://23.237.126.146:80/livestream/unicable.m3u8?token=vokGiicUQ9pDxEyhtLRApg&expires=1562645101
 #EXTINF:-1, HBO
-http://23.237.126.146:80/livestream/hbo.m3u8?token=2J8K7GsMESezeH6ZqUDrQw&expires=1562637173
+http://23.237.126.146:80/livestream/hbo.m3u8?token=66XhhPC9HyB0P8PT6p55dw&expires=1562645101
 #EXTINF:-1, HBO 2
-http://23.237.126.146:80/livestream/hbo2.m3u8?token=EwgltgwNZRXccoaxChS6GQ&expires=1562637173
+http://23.237.126.146:80/livestream/hbo2.m3u8?token=nFIaom9Oj6xa_D7Y_Nnt8w&expires=1562645102
 #EXTINF:-1, HBO plus
-http://23.237.126.146:80/livestream/hboplus.m3u8?token=PO8-Pd82l0wmL_WTDGxNhg&expires=1562637173
+http://23.237.126.146:80/livestream/hboplus.m3u8?token=W3ccRLb5zZr3X4JylX0DFA&expires=1562645102
 #EXTINF:-1, HBO family
-http://23.237.126.146:80/livestream/hbofamily.m3u8?token=hCGamz8uU4TzGWtmp2qB7Q&expires=1562637173
+http://23.237.126.146:80/livestream/hbofamily.m3u8?token=r6MSl0UomwgAuWnxRMDzZA&expires=1562645102
 #EXTINF:-1, HBO signature
-http://23.237.126.146:80/livestream/hbosignature.m3u8?token=ewzQIDM5tmsMAZ4Am1yl2g&expires=1562637173
+http://23.237.126.146:80/livestream/hbosignature.m3u8?token=vnAHUq4I5izM_eCQhtHtpg&expires=1562645102
 #EXTINF:-1, Animal planet
-http://23.237.126.146:80/livestream/animalplanet.m3u8?token=0MoAtC62s-eg7jcFzCKMcQ&expires=1562637173
+http://23.237.126.146:80/livestream/animalplanet.m3u8?token=XFNF_7v01-0EFf0F17Weyw&expires=1562645102
 #EXTINF:-1, Discovery kids
-http://23.237.126.146:80/livestream/discoverykids.m3u8?token=tarZs2m6ylBbGlm03Rw2TQ&expires=1562637173
+http://23.237.126.146:80/livestream/discoverykids.m3u8?token=wDbV7cRnp_TTW5s0gufXiw&expires=1562645102
 #EXTINF:-1, Cartoon network
-http://23.237.126.146:80/livestream/cartoon.m3u8?token=iMadtBlrtKH5JgaQurMhjw&expires=1562637173
+http://23.237.126.146:80/livestream/cartoon.m3u8?token=H-QeWL5b9o1BVaDvyE7zHg&expires=1562645102
 #EXTINF:-1, Disney junior
-http://23.237.126.146:80/livestream/disneyjunior.m3u8?token=NOXkpjrjAPfTDOSBnmlaFw&expires=1562637173
+http://23.237.126.146:80/livestream/disneyjunior.m3u8?token=ptnekd-sly1J868yy_nmgw&expires=1562645102
 #EXTINF:-1, Disney xd
-http://23.237.126.146:80/livestream/disneyxd.m3u8?token=phpZ-Qtm3vP31vN7oihZJA&expires=1562637173
+http://23.237.126.146:80/livestream/disneyxd.m3u8?token=p-IdgwRGX9Acx-22s9MK3w&expires=1562645102
 #EXTINF:-1, Nickelodeon
-http://23.237.126.146:80/livestream/nick.m3u8?token=S0vf2J9fTZ4kensxwYenug&expires=1562637173
+http://23.237.126.146:80/livestream/nick.m3u8?token=hV4cTXQ7lsGyXnemxINE2Q&expires=1562645102
 #EXTINF:-1, E entretainement
-http://23.237.126.146:80/livestream/e.m3u8?token=EEy-JW23Khmvq_c39BP4dQ&expires=1562637173
+http://23.237.126.146:80/livestream/e.m3u8?token=JlnDUiplXHVYIE324d_aOw&expires=1562645102
 #EXTINF:-1, Disney channel
-http://23.237.126.146:80/livestream/disneychannel.m3u8?token=_UitnMnCFVgEQh8SngI8Pg&expires=1562637173
+http://23.237.126.146:80/livestream/disneychannel.m3u8?token=cmvh9kuz-cfrXfZkPzZxBg&expires=1562645102
 #EXTINF:-1, Sony
-http://23.237.126.146:80/livestream/sony.m3u8?token=QkbUuIyE-GvL5Oi0c0pBNA&expires=1562637174
+http://23.237.126.146:80/livestream/sony.m3u8?token=7HtAwEpe__jIIuo631nhDw&expires=1562645102
 #EXTINF:-1, Discovery Science
-http://23.237.126.146:80/livestream/discoveryscience.m3u8?token=sIu8e7x6-1UU_Fh0099X_w&expires=1562637174
+http://23.237.126.146:80/livestream/discoveryscience.m3u8?token=x2h-o2MRifT2iV8GMmauzg&expires=1562645102
 #EXTINF:-1, Nick jr
-http://23.237.126.146:80/livestream/nickjr.m3u8?token=kqoV2aHfvA0yad89kFQpcA&expires=1562637174
+http://23.237.126.146:80/livestream/nickjr.m3u8?token=8YIdz8C8t-JJMzGYQGqwSQ&expires=1562645102
 #EXTINF:-1, AMC
-http://23.237.126.146:80/livestream/amc.m3u8?token=iZUlSQJqV8MAYGMQGlABIA&expires=1562637174
+http://23.237.126.146:80/livestream/amc.m3u8?token=2DUherv4F1AXm2aVztoP5Q&expires=1562645103
 #EXTINF:-1, AXN
-http://23.237.126.146:80/livestream/axn.m3u8?token=11pC2F24khMdpfOtoUSypA&expires=1562637174
+http://23.237.126.146:80/livestream/axn.m3u8?token=67jlvjv2TXkj8Vz_X7kMtg&expires=1562645103
 #EXTINF:-1, AE
-http://23.237.126.146:80/livestream/ae.m3u8?token=l7rZlwt-2tyVhlTsY9xRiw&expires=1562637174
+http://23.237.126.146:80/livestream/ae.m3u8?token=O5fZ4x93mUxAJue-7QCn3Q&expires=1562645103
 #EXTINF:-1, Comedy central
-http://23.237.126.146:80/livestream/comedycentral.m3u8?token=76-iTUUw0-iJVurDBKnLXw&expires=1562637174
+http://23.237.126.146:80/livestream/comedycentral.m3u8?token=opAeiK5cq_mnSI1S17f5qw&expires=1562645103
 #EXTINF:-1, Studio universal
-http://23.237.126.146:80/livestream/studiouniversal.m3u8?token=S8Zm0d2Z2TKy-KLkmXlIRA&expires=1562637174
+http://23.237.126.146:80/livestream/studiouniversal.m3u8?token=IqSDNDf9lnBuACWgtMguDA&expires=1562645103
 #EXTINF:-1, Natgeo wild
-http://23.237.126.146:80/livestream/natgeowild.m3u8?token=3IPrOWj1Xux-n5HGmfD-YQ&expires=1562637174
+http://23.237.126.146:80/livestream/natgeowild.m3u8?token=ZT9Jpj8Js-imNuY44w-R2g&expires=1562645103
 #EXTINF:-1, Max prime
-http://23.237.126.146:80/livestream/maxprime.m3u8?token=mWVpvrgR_YRMco2Nz4iApA&expires=1562637174
+http://23.237.126.146:80/livestream/maxprime.m3u8?token=IeK_Nw30RR9xBirjmk_RVQ&expires=1562645103
 #EXTINF:-1, Discovery theather
-http://23.237.126.146:80/livestream/discoverytheather.m3u8?token=UtvEZHyVnP2C2LeTtVLwvw&expires=1562637174
+http://23.237.126.146:80/livestream/discoverytheather.m3u8?token=H0u4bN-Ipj3tgQXa4FAziA&expires=1562645103
 #EXTINF:-1, Discovery home and health
-http://23.237.126.146:80/livestream/discoveryhh.m3u8?token=xLL2kTbEBsxkWQUsAS0jsQ&expires=1562637174
+http://23.237.126.146:80/livestream/discoveryhh.m3u8?token=JCKIHmErk2QQNirgZ0joRQ&expires=1562645103
 #EXTINF:-1, Nick 2
-http://23.237.126.146:80/livestream/nick2.m3u8?token=I9uMuMsvy4Aal2qvy_IYYQ&expires=1562637174
+http://23.237.126.146:80/livestream/nick2.m3u8?token=0KQy9-ZvpA6-gCapnwxTsA&expires=1562645103
 #EXTINF:-1, Natgeo kids
-http://23.237.126.146:80/livestream/natgeokids.m3u8?token=7hBunl7ZEObhOfLwxUsaMQ&expires=1562637174
+http://23.237.126.146:80/livestream/natgeokids.m3u8?token=p10ofO-BPYAM2PjQcAMr6Q&expires=1562645103
 #EXTINF:-1, Foro tv
 https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8
 #EXTINF:-1, Gala tv
-http://23.237.126.146:80/livestream/galatv.m3u8?token=bk4VAkt5_NCybe-4ashyfQ&expires=1562637175
+http://23.237.126.146:80/livestream/galatv.m3u8?token=ypY55N2PyUbn_p9-dVwkKg&expires=1562645103
 #EXTINF:-1, Tlnovelas
-http://23.237.126.146:80/livestream/tlnovelas.m3u8?token=vLffp1AJLxuDl9s5XDUAcg&expires=1562637175
+http://23.237.126.146:80/livestream/tlnovelas.m3u8?token=sAyB8soMhUBoavKu_p3siw&expires=1562645103
 #EXTINF:-1, Distrito comedia
-http://23.237.126.146:80/livestream/distritocomedia.m3u8?token=8tiKpm6dfLH9NFMM2wZR1Q&expires=1562637175
+http://23.237.126.146:80/livestream/distritocomedia.m3u8?token=s8WWgSKoWI5msuMC5657ag&expires=1562645103
 #EXTINF:-1, Syfy
-http://23.237.126.146:80/livestream/syfy.m3u8?token=daF9cXDLyzLUH188eAoKag&expires=1562637175
+http://23.237.126.146:80/livestream/syfy.m3u8?token=ue5XU47xTu9Qkv91HtlXfQ&expires=1562645104
