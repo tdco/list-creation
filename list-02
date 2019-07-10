@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1, ID
-http://23.237.66.34:80/livestream/investigationdiscovery.m3u8?token=cgWOnldq9Sin0OOcNX_PWQ&expires=1562803509
+http://23.237.66.34:80/livestream/investigationdiscovery.m3u8?token=cou5pToU7O3icji2SaOEDw&expires=1562815886
 #EXTINF:-1, ID opcion 2
-http://158.69.54.145:8000/livestream/325_.m3u8?md5=gcNbPy7WcwZyGbN1NvOxUA&expires=1562810710
+http://158.69.54.145:8000/livestream/325_.m3u8?md5=aiElxvZ0RMzZce8Os-o46A&expires=1562823088
 #EXTINF:-1, History
-https://player.limpi.tv/media/45242.m3u8?token=uIaNLyuSXvU3fGWZFbYzRA&expires=1562810709&expires2=U2FsdGVkX181s8M%2BFohMlKsaN6vTMB3W8OtOurSonmU%3D&ip=187.188.11.149
+https://player.limpi.tv/media/45242.m3u8?token=5UdjiRTqyNDlSAEdMKL4ng&expires=1562823086&expires2=U2FsdGVkX18egCfO7PR%2BAcgsz%2FY2R7DsUptizwRNBmI%3D&ip=187.188.11.149
 #EXTINF:-1, History 2
-http://158.69.54.145:8000/livestream/317_.m3u8?md5=sL0LA_5XkNDvMJNIwF1fxg&expires=1562810711
+http://158.69.54.145:8000/livestream/317_.m3u8?md5=tIjPigRcIOpAmrFq9W171Q&expires=1562823089
 #EXTINF:-1, Universal
-https://player.limpi.tv/media/45230.m3u8?token=MRvhEFxkIE3VUdH9Qs9Klg&expires=1562810709&expires2=U2FsdGVkX1%2FVvgtH8MEsZKMhLXEy%2FBu6brBpWQv4aww%3D&ip=187.188.11.149
+https://player.limpi.tv/media/45230.m3u8?token=tWYfGejxFt3Wi9Pv5amONg&expires=1562823087&expires2=U2FsdGVkX18VM6qwKgYn7ooYRNaRBh22bR5KdTQ6rw0%3D&ip=187.188.11.149
