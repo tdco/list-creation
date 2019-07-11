@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1, Disney Channel
+http://158.69.54.145:8000/livestream/330_.m3u8?md5=5U1cnWefiNd0GFB5JpfeKw&expires=1562905657
+#EXTINF:-1, Disney xd
+http://158.69.54.145:8000/livestream/331_.m3u8?md5=mXNGH4K86dKzqvZLk3A9uQ&expires=1562905657
+#EXTINF:-1, Disney junior
+http://158.69.54.145:8000/livestream/332_.m3u8?md5=SDRzUtEMlNKZMqdqD09DIg&expires=1562905658
+#EXTINF:-1, nick
+http://158.69.54.145:8000/livestream/333_.m3u8?md5=0wZldiQKpsUYcmoyb4TyUQ&expires=1562905658
+#EXTINF:-1, nick jr
+http://158.69.54.145:8000/livestream/334_.m3u8?md5=OaAiNx09yRZr7vWWH60WAg&expires=1562905658
+#EXTINF:-1, nick toons
+http://158.69.54.145:8000/livestream/335_.m3u8?md5=nyHzw3obLNGeUxu365Lawg&expires=1562905658
+#EXTINF:-1, Cartoon network
+http://158.69.54.145:8000/livestream/336_.m3u8?md5=BE_SYUEnq16MrsX-_ag6rw&expires=1562905659
+#EXTINF:-1, Boomerang
+http://158.69.54.145:8000/livestream/337_.m3u8?md5=btbgTvdwGAo4fHlN4tvQVw&expires=1562905659
+#EXTINF:-1, Tooncast
+http://158.69.54.145:8000/livestream/338_.m3u8?md5=crV5aW568vvu1YyqisRR1Q&expires=1562905659
+#EXTINF:-1, Discovery kids
+http://158.69.54.145:8000/livestream/339_.m3u8?md5=2ZtkGRAefaG8nSGnnlTFaQ&expires=1562905660
+#EXTINF:-1, Natgeo kids
+http://158.69.54.145:8000/livestream/340_.m3u8?md5=pzYTn516OZFKZUqVENo_Eg&expires=1562905660
