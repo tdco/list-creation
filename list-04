@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1, espn+
+http://158.69.54.145:8000/livestream/345_.m3u8?md5=6l0U-rpnOLAszNtjpO4YTA&expires=1562905673
+#EXTINF:-1, Univision TDN
+http://158.69.54.145:8000/livestream/348_.m3u8?md5=h5-4zRTYS2n0sx8s8BU5FA&expires=1562905673
+#EXTINF:-1, Fox sports
+http://158.69.54.145:8000/livestream/358_.m3u8?md5=JisPLzXga4An6uzLQXy2AQ&expires=1562905673
+#EXTINF:-1, Fox sports 2
+http://158.69.54.145:8000/livestream/359_.m3u8?md5=cM6T5eiQJLIb_wbpyHl9cg&expires=1562905674
+#EXTINF:-1, espn
+http://158.69.54.145:8000/livestream/361_.m3u8?md5=Rb-csZegogXlWPQvOtcvHw&expires=1562905674
+#EXTINF:-1, espn 2
+http://158.69.54.145:8000/livestream/362_.m3u8?md5=yOIPHgahWgkbc-faz1v4_g&expires=1562905674
+#EXTINF:-1, Claro sport
+http://158.69.54.145:8000/livestream/369_.m3u8?md5=xetloxhyJ7uSqO0ODjvxbQ&expires=1562905674
+#EXTINF:-1, Fox sports opcion 2
+http://158.69.54.145:8000/livestream/371_.m3u8?md5=ePE4f_hz_IDYlJZ1dsBjsQ&expires=1562905675
+#EXTINF:-1, Win sport
+http://158.69.54.145:8000/livestream/430_.m3u8?md5=eGuGH0WLpGHL9tVJHsY9Bg&expires=1562905675
+#EXTINF:-1, espn opcion 2
+http://158.69.54.145:8000/livestream/420_.m3u8?md5=cQ9Qe0KKHyQumbGyoYZlog&expires=1562905675
+#EXTINF:-1, espn deportes
+http://158.69.54.145:8000/livestream/426_.m3u8?md5=xTWP6UAv3a87ETVDHTZttA&expires=1562905675
+#EXTINF:-1, ufc
+http://158.69.54.145:8000/livestream/437_.m3u8?md5=1bCrJL02SW77s7yyPoENJw&expires=1562905675
+#EXTINF:-1, Directv sport
+http://158.69.54.145:8000/livestream/443_.m3u8?md5=FVtNt5raG4qjENdFSZW_Yg&expires=1562905676
+#EXTINF:-1, Directv sport 2
+http://158.69.54.145:8000/livestream/444_.m3u8?md5=_1SSnT9-vp6PLKEIZOHUjQ&expires=1562905676
+#EXTINF:-1, TDN
+http://158.69.54.145:8000/livestream/446_.m3u8?md5=djPzxmyRRQLTqX0cPpdO8Q&expires=1562905676
+#EXTINF:-1, TNT sports
+http://158.69.54.145:8000/livestream/448_.m3u8?md5=NTa_svfiHMGG4_gQiUahmg&expires=1562905676
+#EXTINF:-1, TyC sports
+http://158.69.54.145:8000/livestream/449_.m3u8?md5=mbQgeYsoP4_dqaa1G5yLdg&expires=1562905676
+#EXTINF:-1, espn 3
+http://158.69.54.145:8000/livestream/456_.m3u8?md5=hEsTB7zQg5sbnh6NXs-68Q&expires=1562905676
