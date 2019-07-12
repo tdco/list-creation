@@ -1,121 +1,121 @@
 #EXTM3U
 #EXTINF:-1, ID
-http://23.237.66.34:80/livestream/investigationdiscovery.m3u8?token=W5UJPIGOuM0jwMolE4rMCA&expires=1562961899
+http://23.237.66.34:80/livestream/investigationdiscovery.m3u8?token=1ZpNgrHBriYWH5lLdDOaxw&expires=1562976299
 #EXTINF:-1, ID opcion 2
-http://158.69.54.145:8000/livestream/325_.m3u8?md5=soZmTLnqzsmT1hU7cCAbbQ&expires=1562969101
+http://158.69.54.145:8000/livestream/325_.m3u8?md5=SYaJcPBYVZPqgGq-I3MXaA&expires=1562983500
 #EXTINF:-1, History 2
-http://158.69.54.145:8000/livestream/317_.m3u8?md5=MsiJQyMHuuReV8OuSA3eOw&expires=1562969101
+http://158.69.54.145:8000/livestream/317_.m3u8?md5=VVyU-RIdbr57E2kZtvxgGw&expires=1562983501
 #EXTINF:-1, Fox series
-http://158.69.54.145:8000/livestream/289_.m3u8?md5=5t9gwbzu7zp5Q2-ggEubxA&expires=1562969102
+http://158.69.54.145:8000/livestream/289_.m3u8?md5=w5btbMkW2UlB-lZ-cPF4ow&expires=1562983501
 #EXTINF:-1, Warner
-http://158.69.54.145:8000/livestream/288_.m3u8?md5=gkVG5gK7OBUbej4lVSLA5Q&expires=1562969102
+http://158.69.54.145:8000/livestream/288_.m3u8?md5=S681NSQD8-UjRlShCFsfjg&expires=1562983501
 #EXTINF:-1, Telemundo
-http://158.69.54.145:8000/livestream/294_.m3u8?md5=OIlqh-aRbDZvEmWMbuVWLg&expires=1562969102
+http://158.69.54.145:8000/livestream/294_.m3u8?md5=Ezyve7GkOZaJpFEMaZnAsQ&expires=1562983501
 #EXTINF:-1, Fox movies
-http://158.69.54.145:8000/livestream/298_.m3u8?md5=FOHdXcIWMxppoNhm-KouPw&expires=1562969102
+http://158.69.54.145:8000/livestream/298_.m3u8?md5=hD0JtO4QnomIn0tG6JCBUQ&expires=1562983501
 #EXTINF:-1, Fox family
-http://158.69.54.145:8000/livestream/363_.m3u8?md5=dexUi-6rNEm5UyENmLI6eA&expires=1562969102
+http://158.69.54.145:8000/livestream/363_.m3u8?md5=6-bMUhfMBNTpAhFWoHtaGA&expires=1562983502
 #EXTINF:-1, Fox comedy
-http://158.69.54.145:8000/livestream/364_.m3u8?md5=_ibwiJk5-OL4MNfPQolmFg&expires=1562969102
+http://158.69.54.145:8000/livestream/364_.m3u8?md5=8p-lDnH34ymVSkRea3chkQ&expires=1562983502
 #EXTINF:-1, Fox cinema
-http://158.69.54.145:8000/livestream/365_.m3u8?md5=kNNV7idjqbZCvchoKKZHQw&expires=1562969103
+http://158.69.54.145:8000/livestream/365_.m3u8?md5=sexGtjv9yCVtUCHN44J9ZA&expires=1562983502
 #EXTINF:-1, HBO Signature
-http://158.69.54.145:8000/livestream/300_.m3u8?md5=BaC2ZEAlMBeA40Rg9SYatA&expires=1562969103
+http://158.69.54.145:8000/livestream/300_.m3u8?md5=2b8OzB-nKQAGqT91tFN3wg&expires=1562983502
 #EXTINF:-1, Golden Edge
-http://158.69.54.145:8000/livestream/303_.m3u8?md5=NrIk4HlvHlsqrSz9Bc4dzw&expires=1562969103
+http://158.69.54.145:8000/livestream/303_.m3u8?md5=TH9rMuaNIv87OjqTS9NpVA&expires=1562983502
 #EXTINF:-1, Max up
-http://158.69.54.145:8000/livestream/308_.m3u8?md5=uNFjJh5dbXnWkf-xIP_j-w&expires=1562969103
+http://158.69.54.145:8000/livestream/308_.m3u8?md5=olcHza-zmvGOi2xoBJiS7g&expires=1562983502
 #EXTINF:-1, NatGeo
-http://158.69.54.145:8000/livestream/318_.m3u8?md5=OaP-l2xR-p1KoiTZ85YL5Q&expires=1562969103
+http://158.69.54.145:8000/livestream/318_.m3u8?md5=dFzuEaa5Q9OZ1V3n1ZF2YA&expires=1562983503
 #EXTINF:-1, discovery h&h
-http://158.69.54.145:8000/livestream/323_.m3u8?md5=BVN-7SJsaYrFtdxrJd6tIA&expires=1562969104
+http://158.69.54.145:8000/livestream/323_.m3u8?md5=qDpTM4R5aCTtsW3G1ndq4A&expires=1562983503
 #EXTINF:-1, discovery turbo
-http://158.69.54.145:8000/livestream/322_.m3u8?md5=qhwWlsmZh1vO6WCmanVXsg&expires=1562969104
+http://158.69.54.145:8000/livestream/322_.m3u8?md5=gwAOovxHo73NunVVpVnelQ&expires=1562983503
 #EXTINF:-1, Animal planet
-http://158.69.54.145:8000/livestream/320_.m3u8?md5=6H9ANQRV9ueBV8vdx2KGcw&expires=1562969104
+http://158.69.54.145:8000/livestream/320_.m3u8?md5=LgXumMtP-6BmGKinVPw_gg&expires=1562983503
 #EXTINF:-1, NatGeo Wild
-http://158.69.54.145:8000/livestream/319_.m3u8?md5=qVJRKwVphhLwXBQrHm-1ZA&expires=1562969104
+http://158.69.54.145:8000/livestream/319_.m3u8?md5=o-Gs9lwr80WZhDn_pw8Frg&expires=1562983503
 #EXTINF:-1, Discovery A&E
-http://158.69.54.145:8000/livestream/326_.m3u8?md5=ReyVwhrGpMS7NsqXYMFq3Q&expires=1562969104
+http://158.69.54.145:8000/livestream/326_.m3u8?md5=KEP6AZA2-qw1XsqveQozRg&expires=1562983504
 #EXTINF:-1, Everything
-http://158.69.54.145:8000/livestream/329_.m3u8?md5=_dixOzOneX6f4A6XaN7UUg&expires=1562969105
+http://158.69.54.145:8000/livestream/329_.m3u8?md5=m4YTnuJykcMQgvvd_3Iqhg&expires=1562983504
 #EXTINF:-1, Discovery theater
-http://158.69.54.145:8000/livestream/387_.m3u8?md5=6x60RaPHXuXL-Mio623hUQ&expires=1562969105
+http://158.69.54.145:8000/livestream/387_.m3u8?md5=zklo-iUVi_mUoCS5zwb6QA&expires=1562983504
 #EXTINF:-1, Comedy Central
-http://158.69.54.145:8000/livestream/316_.m3u8?md5=qMi6aGEcYRTxqv5-4WNm2Q&expires=1562969105
+http://158.69.54.145:8000/livestream/316_.m3u8?md5=NLe9yxspzJf1aplc2kbQsA&expires=1562983504
 #EXTINF:-1, Universal
-http://158.69.54.145:8000/livestream/310_.m3u8?md5=gnb8Dc6wensva272e5jAoQ&expires=1562969105
+http://158.69.54.145:8000/livestream/310_.m3u8?md5=6iym1rVG_YVM8zP-L1Ulhw&expires=1562983504
 #EXTINF:-1, Studio Universal
-http://158.69.54.145:8000/livestream/311_.m3u8?md5=-9HMHZjjI2lIFM610Dq9JA&expires=1562969105
+http://158.69.54.145:8000/livestream/311_.m3u8?md5=gJoeiCmSKeHqMJMmBMKvrw&expires=1562983505
 #EXTINF:-1, AMC
-http://158.69.54.145:8000/livestream/313_.m3u8?md5=F7q5uV9mZiStAE7syZQU7w&expires=1562969105
+http://158.69.54.145:8000/livestream/313_.m3u8?md5=E2bxLMrrchbR1QKz66KIsg&expires=1562983505
 #EXTINF:-1, DHE
-http://158.69.54.145:8000/livestream/309_.m3u8?md5=C5o_KYgDO2JJVRgdM3azYA&expires=1562969106
+http://158.69.54.145:8000/livestream/309_.m3u8?md5=TDZvFFtV2IYSgrOPkFK05w&expires=1562983505
 #EXTINF:-1, Max prime
-http://158.69.54.145:8000/livestream/307_.m3u8?md5=1uXKWHJXfE9Q-K9FcGQ9jg&expires=1562969106
+http://158.69.54.145:8000/livestream/307_.m3u8?md5=ivN74Z8LAG1eH8rNxoaVGA&expires=1562983505
 #EXTINF:-1, AXN
-http://158.69.54.145:8000/livestream/306_.m3u8?md5=aGsJRMbwXGJPgJhf50Fg5g&expires=1562969106
+http://158.69.54.145:8000/livestream/306_.m3u8?md5=CVqsKdVRITbDtP7eG9thrA&expires=1562983505
 #EXTINF:-1, Sony
-http://158.69.54.145:8000/livestream/305_.m3u8?md5=dgjdJbNLD72lHyhpwkQw9Q&expires=1562969106
+http://158.69.54.145:8000/livestream/305_.m3u8?md5=X4bqCgIJvfBZ742J8OVymA&expires=1562983505
 #EXTINF:-1, Golden premier
-http://158.69.54.145:8000/livestream/304_.m3u8?md5=DtB3By5rNpnRnsozDGeq4A&expires=1562969106
+http://158.69.54.145:8000/livestream/304_.m3u8?md5=mmVmPIvVBLdwLpUoygf3Hw&expires=1562983506
 #EXTINF:-1, Golden plus
-http://158.69.54.145:8000/livestream/302_.m3u8?md5=3k5c87B3e0CNIXG_4sKtbw&expires=1562969107
+http://158.69.54.145:8000/livestream/302_.m3u8?md5=6m1HqjBm5o-sRLiJbvD7Ig&expires=1562983506
 #EXTINF:-1, TNT series
-http://158.69.54.145:8000/livestream/301_.m3u8?md5=0SbAG4vFcZDtd7weg_sIJA&expires=1562969107
+http://158.69.54.145:8000/livestream/301_.m3u8?md5=znaoFaZrkGyKt-JDOCiXjg&expires=1562983506
 #EXTINF:-1, HBO Family
-http://158.69.54.145:8000/livestream/299_.m3u8?md5=NIR3sGNmhmAaoOFIZxNThQ&expires=1562969107
+http://158.69.54.145:8000/livestream/299_.m3u8?md5=CfktkrfHWrQlVVan1FYqzw&expires=1562983506
 #EXTINF:-1, Fox life
-http://158.69.54.145:8000/livestream/297_.m3u8?md5=mTxe_DecYJgW2e9jFZFbrA&expires=1562969107
+http://158.69.54.145:8000/livestream/297_.m3u8?md5=EvTxV3N86Bjc1QfwpI0czA&expires=1562983506
 #EXTINF:-1, FXM
-http://158.69.54.145:8000/livestream/296_.m3u8?md5=PzKUUTBuWCA9MeUCK_2JPA&expires=1562969107
+http://158.69.54.145:8000/livestream/296_.m3u8?md5=WXPNSoUhSprtr8_NdWUWZg&expires=1562983507
 #EXTINF:-1, FX
-http://158.69.54.145:8000/livestream/295_.m3u8?md5=QOJRaW5YqpY8-az3Uyuxhw&expires=1562969108
+http://158.69.54.145:8000/livestream/295_.m3u8?md5=RpqCiE51MUnW-av-sqOLmA&expires=1562983507
 #EXTINF:-1, Distrito comedia
-http://158.69.54.145:8000/livestream/292_.m3u8?md5=qQSD2WStvv0T846Ps0DRzg&expires=1562969108
+http://158.69.54.145:8000/livestream/292_.m3u8?md5=loDx5rSrGtZicoBBBAWc0A&expires=1562983507
 #EXTINF:-1, Tlnovelas
-http://158.69.54.145:8000/livestream/291_.m3u8?md5=y8R56HlUDI4KCeuZSlmiPA&expires=1562969108
+http://158.69.54.145:8000/livestream/291_.m3u8?md5=OIKxeAW1mzQ2zdXYKUGijQ&expires=1562983507
 #EXTINF:-1, Pasiones
-http://158.69.54.145:8000/livestream/290_.m3u8?md5=iremcRpCaGi784nnsQ1_9Q&expires=1562969108
+http://158.69.54.145:8000/livestream/290_.m3u8?md5=t-Hymal1rjbf-PqJ8RDERw&expires=1562983507
 #EXTINF:-1, Cine canal
-http://158.69.54.145:8000/livestream/287_.m3u8?md5=MkLwwQS66Lni5aWu3CC-ZQ&expires=1562969108
+http://158.69.54.145:8000/livestream/287_.m3u8?md5=8t6EQYKsBdMWkePaIDTnWw&expires=1562983508
 #EXTINF:-1, Fox channel
-http://158.69.54.145:8000/livestream/286_.m3u8?md5=CJsgItX22RdEodzRweCKkA&expires=1562969108
+http://158.69.54.145:8000/livestream/286_.m3u8?md5=99Mihiy00rzAy31XQTIs_w&expires=1562983508
 #EXTINF:-1, HBO plus
-http://158.69.54.145:8000/livestream/285_.m3u8?md5=HDD7XHTcYjr--TPuBAtvnw&expires=1562969109
+http://158.69.54.145:8000/livestream/285_.m3u8?md5=8ECRl1hp2UlOwJdcgZGzDQ&expires=1562983508
 #EXTINF:-1, Cinemax
-http://158.69.54.145:8000/livestream/284_.m3u8?md5=mdd30BrdFLVDlOk07FuB7w&expires=1562969109
+http://158.69.54.145:8000/livestream/284_.m3u8?md5=2-2Hhbrz95ZFN0uBn8LzNw&expires=1562983508
 #EXTINF:-1, Fox Action
-http://158.69.54.145:8000/livestream/283_.m3u8?md5=xFKHBONyv6dJ27dGNwSJHQ&expires=1562969109
+http://158.69.54.145:8000/livestream/283_.m3u8?md5=7W9KRMnd70xeVC3EWS2_sQ&expires=1562983508
 #EXTINF:-1, History
-http://158.69.54.145:8000/livestream/282_.m3u8?md5=BquwVb3OvL79TP5vnu3Z-Q&expires=1562969109
+http://158.69.54.145:8000/livestream/282_.m3u8?md5=bSTFrgC1XDiQC-w6WUrmkQ&expires=1562983508
 #EXTINF:-1, HBO2
-http://158.69.54.145:8000/livestream/281_.m3u8?md5=fF24LmSrVlM0MFms1-mlLA&expires=1562969109
+http://158.69.54.145:8000/livestream/281_.m3u8?md5=XbBg5hFEYhsh79S3J2fhKA&expires=1562983509
 #EXTINF:-1, HBO
-http://158.69.54.145:8000/livestream/279_.m3u8?md5=X_v4ioBYj3Xos4sr2E-BTA&expires=1562969110
+http://158.69.54.145:8000/livestream/279_.m3u8?md5=aCWmw9NO9Mhbp_9FZhhxDw&expires=1562983509
 #EXTINF:-1, Foro tv
 https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8
 #EXTINF:-1, Azteca mundo
-http://158.69.54.145:8000/livestream/376_.m3u8?md5=xfxTESVa90VKT_FbrtTy4Q&expires=1562969110
+http://158.69.54.145:8000/livestream/376_.m3u8?md5=8BDvzwDZBoNRk_4Kj72k3w&expires=1562983509
 #EXTINF:-1, Azteca corazon
-http://158.69.54.145:8000/livestream/377_.m3u8?md5=ManX-OsRdOqOFNCbCx1kSA&expires=1562969110
+http://158.69.54.145:8000/livestream/377_.m3u8?md5=1s3Fd_cRpe9tBpfusaw2Mw&expires=1562983509
 #EXTINF:-1, Televiza estrellas
-http://158.69.54.145:8000/livestream/378_.m3u8?md5=2Vv8dWZELZx7ITPGvfytvw&expires=1562969110
+http://158.69.54.145:8000/livestream/378_.m3u8?md5=F-IMa56Tm_E7QKBYbpMoCw&expires=1562983510
 #EXTINF:-1, tbs
-http://158.69.54.145:8000/livestream/380_.m3u8?md5=w7CJl_n7f4780VQPMCVhIQ&expires=1562969110
+http://158.69.54.145:8000/livestream/380_.m3u8?md5=T6owvWdVetkFQV7V7AmUFw&expires=1562983510
 #EXTINF:-1, tcm
-http://158.69.54.145:8000/livestream/381_.m3u8?md5=j6w1A5km4uzWvXDj2E8_wQ&expires=1562969111
+http://158.69.54.145:8000/livestream/381_.m3u8?md5=EV5536-PowHrOkJ8dyMz4Q&expires=1562983510
 #EXTINF:-1, de pelicula
-http://158.69.54.145:8000/livestream/382_.m3u8?md5=TmSoe-y66QQcLEUtfaVF2g&expires=1562969111
+http://158.69.54.145:8000/livestream/382_.m3u8?md5=zJ0DNnGnYW_ZHD9S8Any4g&expires=1562983510
 #EXTINF:-1, Cine latino
-http://158.69.54.145:8000/livestream/384_.m3u8?md5=DcyGl76zIdJMjtkL3mGQNA&expires=1562969111
+http://158.69.54.145:8000/livestream/384_.m3u8?md5=EqSoZknPL8_FtF6KRBPDmQ&expires=1562983510
 #EXTINF:-1, Discovery World
-http://158.69.54.145:8000/livestream/386_.m3u8?md5=coc7e9cP8vsD55l7PSCYbg&expires=1562969111
+http://158.69.54.145:8000/livestream/386_.m3u8?md5=FRoQl0uP_7B2fhSzdfCRXQ&expires=1562983510
 #EXTINF:-1, Imagen
-http://158.69.54.145:8000/livestream/436_.m3u8?md5=HwQrYztHvWTMmIcJe5zITQ&expires=1562969111
+http://158.69.54.145:8000/livestream/436_.m3u8?md5=7LihvJe-UXuNvvdrH7mVqA&expires=1562983511
 #EXTINF:-1, syfy
-http://158.69.54.145:8000/livestream/439_.m3u8?md5=owTio-0XKHSjbCkxEOIz2A&expires=1562969112
+http://158.69.54.145:8000/livestream/439_.m3u8?md5=tkYzY__n2yLuG4HwxdbedQ&expires=1562983511
 #EXTINF:-1, Televisa canal 5
-http://158.69.54.145:8000/livestream/445_.m3u8?md5=IY_5JrRozEiVczNV9CebMA&expires=1562969112
+http://158.69.54.145:8000/livestream/445_.m3u8?md5=2quAKGUYyayVZTbG1VG9-g&expires=1562983511
 #EXTINF:-1, Azteca 7
-http://158.69.54.145:8000/livestream/450_.m3u8?md5=ic4puBycSj6mFZjGBjl-Nw&expires=1562969112
+http://158.69.54.145:8000/livestream/450_.m3u8?md5=k0DU82BjoYNGsChPJoZcuA&expires=1562983511
