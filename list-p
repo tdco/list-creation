@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1, Afizzionados
+http://66.70.179.175:25461/213015e/token/2434
+#EXTINF:-1, Comedy Central
+http://66.70.179.175:25461/213015e/token/2735
+#EXTINF:-1, History
+http://66.70.179.175:25461/213015e/token/2669
+#EXTINF:-1, ID
+http://66.70.179.175:25461/213015e/token/2709
+#EXTINF:-1, NatGeo Wild
+http://66.70.179.175:25461/213015e/token/2584
+#EXTINF:-1, Warner
+http://66.70.179.175:25461/213015e/token/2583
+#EXTINF:-1, TDN
+http://66.70.179.175:25461/213015e/token/2031
