@@ -1,37 +1,37 @@
 #EXTM3U
 #EXTINF:-1, espn+
-http://158.69.54.145:8000/livestream/345_.m3u8?md5=F3QvSCLJZqG6gK26iXb_9g&expires=1565228236
+http://158.69.54.145:8000/livestream/345_.m3u8?md5=LTBTis4k5Ggtuv5gWiqChQ&expires=1565242611
 #EXTINF:-1, Univision TDN
-http://158.69.54.145:8000/livestream/348_.m3u8?md5=_-f8IgaFHLvB6jogsRjLLQ&expires=1565228237
+http://158.69.54.145:8000/livestream/348_.m3u8?md5=JUxMZb2jLKdlQ79fsMgANA&expires=1565242611
 #EXTINF:-1, Fox sports
-http://158.69.54.145:8000/livestream/358_.m3u8?md5=5A-8SdTMZUFjnv39iT2GnQ&expires=1565228237
+http://158.69.54.145:8000/livestream/358_.m3u8?md5=S5DPhr6l-EPm1_8U4AEQsQ&expires=1565242611
 #EXTINF:-1, Fox sports 2
-http://158.69.54.145:8000/livestream/359_.m3u8?md5=9oihsi7CxaMKWzzvC6QwFw&expires=1565228237
+http://158.69.54.145:8000/livestream/359_.m3u8?md5=aG1iqGL3AYhpKvxZd-jclw&expires=1565242611
 #EXTINF:-1, espn
-http://158.69.54.145:8000/livestream/361_.m3u8?md5=SS2JGmXjcjIKucdxxJHktA&expires=1565228237
+http://158.69.54.145:8000/livestream/361_.m3u8?md5=fDkeUELlB_6TxPFu8cTBfA&expires=1565242611
 #EXTINF:-1, espn 2
-http://158.69.54.145:8000/livestream/362_.m3u8?md5=eXHpVO4Z0RmRMPgfwxFqFQ&expires=1565228237
+http://158.69.54.145:8000/livestream/362_.m3u8?md5=rDQdedaUXzLq5hV_bTIdRw&expires=1565242612
 #EXTINF:-1, Claro sport
-http://158.69.54.145:8000/livestream/369_.m3u8?md5=96yISNNIUyggT7H4MOfa7Q&expires=1565228237
+http://158.69.54.145:8000/livestream/369_.m3u8?md5=wqiS8ZArNT-8lCQV-tuIjA&expires=1565242612
 #EXTINF:-1, Fox sports opcion 2
-http://158.69.54.145:8000/livestream/371_.m3u8?md5=c1LGrZovqYmM73eUqbJ6PQ&expires=1565228238
+http://158.69.54.145:8000/livestream/371_.m3u8?md5=7v8TzLbseyJexdFPZcIUUQ&expires=1565242612
 #EXTINF:-1, Win sport
-http://158.69.54.145:8000/livestream/430_.m3u8?md5=EyaowpvkurJseXwjohIHPw&expires=1565228238
+http://158.69.54.145:8000/livestream/430_.m3u8?md5=q_XeMKrtYfReMZRWuoU7hQ&expires=1565242612
 #EXTINF:-1, espn deportes
-http://158.69.54.145:8000/livestream/426_.m3u8?md5=wki9k0wRJWVeN1yKVIFKQw&expires=1565228238
+http://158.69.54.145:8000/livestream/426_.m3u8?md5=fFVEQGhWWcIEGM8OV5O-yg&expires=1565242612
 #EXTINF:-1, ufc
-http://158.69.54.145:8000/livestream/437_.m3u8?md5=AuHwhOmcGXOH8q-k4_my9g&expires=1565228238
+http://158.69.54.145:8000/livestream/437_.m3u8?md5=erMDe8V4WjsTVK6HLd19jA&expires=1565242612
 #EXTINF:-1, Directv sport 2
-http://158.69.54.145:8000/livestream/444_.m3u8?md5=1mEN3UjN19cb_RmDPOrdAw&expires=1565228238
+http://158.69.54.145:8000/livestream/444_.m3u8?md5=RjQx2135kZIGDj_Di_w9yg&expires=1565242612
 #EXTINF:-1, TDN
-http://158.69.54.145:8000/livestream/446_.m3u8?md5=6Ge6Io8yTyZDR-ZgEr2LXg&expires=1565228238
+http://158.69.54.145:8000/livestream/446_.m3u8?md5=CELmZ_LKJSa-6td3pqCQpA&expires=1565242613
 #EXTINF:-1, TNT sports
-http://158.69.54.145:8000/livestream/448_.m3u8?md5=dm1PpkGq6Oef25pBJYZK-w&expires=1565228238
+http://158.69.54.145:8000/livestream/448_.m3u8?md5=qdLwmfHyZyMbEsNBR7sGhQ&expires=1565242613
 #EXTINF:-1, TyC sports
-http://158.69.54.145:8000/livestream/449_.m3u8?md5=jPps5qBwhabNEc9xip0Oow&expires=1565228239
+http://158.69.54.145:8000/livestream/449_.m3u8?md5=3Hd7J_iQ5s5sWTPW7T_-CQ&expires=1565242613
 #EXTINF:-1, espn 3
-http://158.69.54.145:8000/livestream/456_.m3u8?md5=FhtezHwRpJOk97vRiqVQ6w&expires=1565228239
+http://158.69.54.145:8000/livestream/456_.m3u8?md5=Q5au0jbNyaHLM3dRpe4wQQ&expires=1565242613
 #EXTINF:-1, espn opcion 2
-http://158.69.54.145:8000/livestream/426_.m3u8?md5=EF_gAS82U1CLvhq3pzIO6g&expires=1565228239
+http://158.69.54.145:8000/livestream/426_.m3u8?md5=2vDJjLN3TgoGVNLiOGvMRg&expires=1565242613
 #EXTINF:-1, Directv sport
-http://158.69.54.145:8000/livestream/444_.m3u8?md5=35qe-Y_ODYglw0wOANDDuA&expires=1565228239
+http://158.69.54.145:8000/livestream/444_.m3u8?md5=gwTlaGAbdUGlpfxPGfAVnQ&expires=1565242613
