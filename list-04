@@ -1,37 +1,41 @@
 #EXTM3U
-#EXTINF:-1, espn+
-http://23.237.22.207:8000/tvonlinehd/345_.m3u8?md5=yFZ-yhvlh8hRRDm6ZM2QCA&expires=1567964228
 #EXTINF:-1, Univision TDN
-http://23.237.22.207:8000/tvonlinehd/348_.m3u8?md5=Nzgos6uiFftvc_7f1pJb8w&expires=1567964228
-#EXTINF:-1, Fox sports
-http://23.237.22.207:8000/tvonlinehd/358_.m3u8?md5=77gu788-7lVMkwJBA0W0uQ&expires=1567964228
-#EXTINF:-1, Fox sports 2
-http://23.237.22.207:8000/tvonlinehd/359_.m3u8?md5=dkgq4ZNHW8SHrfg1cfz-FA&expires=1567964229
+http://23.237.22.207:8000/tvonlinehd/348_.m3u8?md5=_YvLjrCPD03ahBgfQl8PZA&expires=1567978626
 #EXTINF:-1, espn
-http://23.237.22.207:8000/tvonlinehd/361_.m3u8?md5=XLMOHtHNLF5tO-YbwwG7KQ&expires=1567964229
-#EXTINF:-1, espn 2
-http://23.237.22.207:8000/tvonlinehd/362_.m3u8?md5=LaXoxARl717PTDXlrKMgag&expires=1567964229
+http://23.237.22.207:8000/tvonlinehd/361_.m3u8?md5=ua77f3bqfBlNi8T242mILA&expires=1567978627
 #EXTINF:-1, Claro sport
-http://23.237.22.207:8000/tvonlinehd/369_.m3u8?md5=7j_0zRJjh-pY9s0HykNbjw&expires=1567964229
-#EXTINF:-1, Fox sports opcion 2
-http://23.237.22.207:8000/tvonlinehd/371_.m3u8?md5=cyOndidYa9sO30KD8AwdHw&expires=1567964229
-#EXTINF:-1, Win sport
-http://23.237.22.207:8000/tvonlinehd/430_.m3u8?md5=xNtNG4hVeP0DGuAo9olfqw&expires=1567964230
+http://23.237.22.207:8000/tvonlinehd/369_.m3u8?md5=8G5S-OteTDRgQRMZxZ7V9w&expires=1567978627
 #EXTINF:-1, espn deportes
-http://23.237.22.207:8000/tvonlinehd/426_.m3u8?md5=LVMSmgmmRbGeQ8HnDPjCtQ&expires=1567964230
+http://23.237.22.207:8000/tvonlinehd/426_.m3u8?md5=nKjTMHk9FfGXUQoHz_9eBA&expires=1567978627
 #EXTINF:-1, ufc
-http://23.237.22.207:8000/tvonlinehd/437_.m3u8?md5=qFazpSEjVYA98RdfJWu5lg&expires=1567964230
+http://23.237.22.207:8000/tvonlinehd/437_.m3u8?md5=jMrxdwJBr8yeuonh7P96rw&expires=1567978627
 #EXTINF:-1, Directv sport 2
-http://23.237.22.207:8000/tvonlinehd/444_.m3u8?md5=RTpVjB3AOn5cbgbaTdlEJg&expires=1567964230
+http://23.237.22.207:8000/tvonlinehd/444_.m3u8?md5=MUIPueVQ93ldb4A9XyEZ3A&expires=1567978627
 #EXTINF:-1, TDN
-http://23.237.22.207:8000/tvonlinehd/446_.m3u8?md5=7BxcL9LBj4WD6SfcO71MGQ&expires=1567964230
+http://23.237.22.207:8000/tvonlinehd/446_.m3u8?md5=Ml_Wb5RloGGCMdeh3VFBrw&expires=1567978627
 #EXTINF:-1, TNT sports
-http://23.237.22.207:8000/tvonlinehd/448_.m3u8?md5=Ozop8Q1__AHrL8mkqSmkXQ&expires=1567964231
-#EXTINF:-1, TyC sports
-http://23.237.22.207:8000/tvonlinehd/449_.m3u8?md5=18sgV1JyixsdleMGXlZegQ&expires=1567964231
-#EXTINF:-1, espn 3
-http://23.237.22.207:8000/tvonlinehd/456_.m3u8?md5=VOKX3wiELvAWqDvUd9LRuQ&expires=1567964231
+http://23.237.22.207:8000/tvonlinehd/448_.m3u8?md5=DRzeyURp3go46CTv0o63pA&expires=1567978628
 #EXTINF:-1, espn opcion 2
-http://23.237.22.207:8000/tvonlinehd/426_.m3u8?md5=oicX_Brqfqm00HKOZQ-tKg&expires=1567964231
+http://23.237.22.207:8000/tvonlinehd/426_.m3u8?md5=tl8D55Zs3d2-9GXyU701Cw&expires=1567978628
 #EXTINF:-1, Directv sport
-http://23.237.22.207:8000/tvonlinehd/444_.m3u8?md5=7LIKqjKsF3pzVJngQQE_5Q&expires=1567964231
+http://23.237.22.207:8000/tvonlinehd/444_.m3u8?md5=ffiNlniHJ6Tp3_Md6ylZmw&expires=1567978628
+#EXTINF:-1, espn+
+http://23.237.22.207:8000/tvonlinehd/87_.m3u8?md5=aMZ7O_KQZ4xByO5BpCDvCA&expires=1567978628
+#EXTINF:-1, Win sport
+http://23.237.22.207:8000/tvonlinehd/31_.m3u8?md5=jYg5G06G_gUhrrQykxCQdA&expires=1567978628
+#EXTINF:-1, Fox sports 2
+http://23.237.22.207:8000/tvonlinehd/24_.m3u8?md5=pis9oQX7WPHKSMsE5slojg&expires=1567978628
+#EXTINF:-1, TyC sports
+http://23.237.22.207:8000/tvonlinehd/19_.m3u8?md5=y7FY-wzOLuUASA_7GdbL5A&expires=1567978629
+#EXTINF:-1, espn 2
+http://23.237.22.207:8000/tvonlinehd/9_.m3u8?md5=6EE-ZoVr9u0S3G4RWtbTAQ&expires=1567978629
+#EXTINF:-1, espn 3
+http://23.237.22.207:8000/tvonlinehd/28_.m3u8?md5=EOwCsKue5t0PcHrkkOvFIA&expires=1567978629
+#EXTINF:-1, espn 3 opcion 2
+http://23.237.22.207:8000/tvonlinehd/11_.m3u8?md5=5_BRDPpKikZWJmPoGZHuEw&expires=1567978629
+#EXTINF:-1, Fox sports
+http://23.237.22.207:8000/tvonlinehd/23_.m3u8?md5=Ly6FrfiKcOTyAXfYaMNmtQ&expires=1567978629
+#EXTINF:-1, Fox sports 3
+http://23.237.22.207:8000/tvonlinehd/25_.m3u8?md5=aDcAPZBckz1B5srkQ6WeFA&expires=1567978629
+#EXTINF:-1, Fox sports opcion 2
+http://23.237.22.207:8000/tvonlinehd/3_.m3u8?md5=ne7M3xVOWDr0rA9dKToeDg&expires=1567978629
