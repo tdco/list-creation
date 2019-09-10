@@ -5,16 +5,20 @@ http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11494.m3u8
 http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/4732.m3u8
 #EXTINF:-1, Investigation Discovery
 http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17052.m3u8
-#EXTINF:-1, DirectTV sport
-http://x3iptv.com:25461/live/Mathyaziptv13/HntJN0kKwT/52531.m3u8
 #EXTINF:-1, HBO family
 http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/4731.m3u8
 #EXTINF:-1, HBO plus
 http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/4729.m3u8
+#EXTINF:-1, espn 2
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16978.m3u8
+#EXTINF:-1, Warner
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13992.m3u8
+#EXTINF:-1, DirectTV sport
+http://x3iptv.com:25461/live/Mathyaziptv13/HntJN0kKwT/52531.m3u8
 #EXTINF:-1, TUDN
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16828.m3u8
+http://ecuaplaytv.com:8000/live/Kakashi/UCGXqX3M7i/63305.m3u8
 #EXTINF:-1, Univision TDN
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16828.m3u8
+http://ecuaplaytv.com:8000/live/Kakashi/UCGXqX3M7i/63305.m3u8
 #EXTINF:-1, DirectTV sport 2
 http://ecuaplaytv.com:8000/live/Kakashi/UCGXqX3M7i/64045.m3u8
 #EXTINF:-1, Fox sport 3 lat
@@ -29,7 +33,3 @@ http://ecuaplaytv.com:8000/live/Kakashi/UCGXqX3M7i/64037.m3u8
 http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16947.m3u8
 #EXTINF:-1, espn deportes
 http://disfruta.net:8000/live/Iptvand1085/1nQi2HMR4m/239.m3u8
-#EXTINF:-1, espn 2
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16978.m3u8
-#EXTINF:-1, Warner
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13992.m3u8
