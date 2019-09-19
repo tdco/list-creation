@@ -9,24 +9,24 @@ http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17052.m3u8
 http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/4731.m3u8
 #EXTINF:-1, HBO plus
 http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/4729.m3u8
-#EXTINF:-1, espn 2
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16978.m3u8
 #EXTINF:-1, Warner
 http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13992.m3u8
+#EXTINF:-1, espn 2
+http://tv-prime.tv:8080/live/Gerardo2/3sXMwYdPKZ/679.m3u8
 #EXTINF:-1, TyC sports
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16947.m3u8
+http://tv-prime.tv:8080/live/Gerardo2/3sXMwYdPKZ/34279.m3u8
 #EXTINF:-1, DirectTV sport 2
-http://ecuaplaytv.com:8000/live/Kakashi/UCGXqX3M7i/64045.m3u8
+http://tv-prime.tv:8080/live/Gerardo2/3sXMwYdPKZ/117.m3u8
 #EXTINF:-1, Fox sport
-http://ecuaplaytv.com:8000/live/Kakashi/UCGXqX3M7i/64039.m3u8
+http://tv-prime.tv:8080/live/Gerardo2/3sXMwYdPKZ/660.m3u8
 #EXTINF:-1, Fox sport 2
-http://ecuaplaytv.com:8000/live/Kakashi/UCGXqX3M7i/64038.m3u8
+http://tv-prime.tv:8080/live/Gerardo2/3sXMwYdPKZ/662.m3u8
 #EXTINF:-1, Fox sport 3
-http://ecuaplaytv.com:8000/live/Kakashi/UCGXqX3M7i/64037.m3u8
+http://tv-prime.tv:8080/live/Gerardo2/3sXMwYdPKZ/163.m3u8
 #EXTINF:-1, TUDN
-http://ecuaplaytv.com:8000/live/Kakashi/UCGXqX3M7i/64026.m3u8
+http://tv-prime.tv:8080/live/Gerardo2/3sXMwYdPKZ/637.m3u8
 #EXTINF:-1, Univision TDN
-http://ecuaplaytv.com:8000/live/Kakashi/UCGXqX3M7i/64026.m3u8
+http://tv-prime.tv:8080/live/Gerardo2/3sXMwYdPKZ/637.m3u8
 #EXTINF:-1, DirectTV sport
 http://redcoliptv.com:8090/live/usuariozavalazavala/BylBg1bE7r/14240.m3u8
 #EXTINF:-1, Fox sport 3 lat
