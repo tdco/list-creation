@@ -1,27 +1,27 @@
 #EXTM3U
 #EXTINF:-1, Discovery kids
-http://23.237.22.207:8000/tvonlinehd/83_.m3u8?md5=E2lwbXnWfWZVIJJAWgR5Ug&expires=1570412199
+http://23.237.22.207:8000/tvonlinehd/83_.m3u8?md5=Jt1zVAc7rrWVzSshOPSP1A&expires=1570424621
 #EXTINF:-1, Tooncast
-http://23.237.22.207:8000/tvonlinehd/84_.m3u8?md5=JI_YFuhiv0WMQjdo5iHp_Q&expires=1570412200
-#EXTINF:-1, Boomerang
-http://23.237.22.207:8000/tvonlinehd/85_.m3u8?md5=JHK983q-Kzbn6JRRIh6m_g&expires=1570412200
+http://23.237.22.207:8000/tvonlinehd/84_.m3u8?md5=5Kyit3IzexSvBFmSL2rZ6Q&expires=1570424621
 #EXTINF:-1, Cartoon network
-http://23.237.22.207:8000/tvonlinehd/86_.m3u8?md5=LKNdMXP045sH0JT-11ulag&expires=1570412200
-#EXTINF:-1, nick toons
-http://23.237.22.207:8000/tvonlinehd/88_.m3u8?md5=-NODB1_0-djeFcQcSpU0kw&expires=1570412200
+http://23.237.22.207:8000/tvonlinehd/86_.m3u8?md5=FYLeLNkbYRaM6OyQGQE3qQ&expires=1570424621
 #EXTINF:-1, Disney junior
-http://23.237.22.207:8000/tvonlinehd/90_.m3u8?md5=zxmEZh8RrKpbxweVq0Kpwg&expires=1570412200
+http://23.237.22.207:8000/tvonlinehd/90_.m3u8?md5=bcQqhnPyWJ4bfmepMOWWkg&expires=1570424621
 #EXTINF:-1, Disney xd
-http://23.237.22.207:8000/tvonlinehd/91_.m3u8?md5=9nbbcgqHz9VHvVRj2Gcbcw&expires=1570412201
+http://23.237.22.207:8000/tvonlinehd/91_.m3u8?md5=dmZOM6uhK-ice47mEXf3Sg&expires=1570424621
 #EXTINF:-1, Disney Channel
-http://23.237.22.207:8000/tvonlinehd/90_.m3u8?md5=boFyzTxvQ7awjlAoRwzEoQ&expires=1570412201
+http://23.237.22.207:8000/tvonlinehd/90_.m3u8?md5=_BDWZ3ow6VtPVXmRVP4jIg&expires=1570424622
 #EXTINF:-1, Nick 2
-http://23.237.22.207:8000/tvonlinehd/99_.m3u8?md5=TcVyay-5WmUm3Gkwo2Ozmg&expires=1570412201
+http://23.237.22.207:8000/tvonlinehd/99_.m3u8?md5=rdk2ZJ00OJnO52L-F3VuWw&expires=1570424622
 #EXTINF:-1, Natgeo kids
-http://23.237.22.207:8000/tvonlinehd/108_.m3u8?md5=SCfcfnwmey2XXzyqAK8jyg&expires=1570412201
-#EXTINF:-1, nick jr
-http://23.237.22.207:8000/tvonlinehd/154_.m3u8?md5=m5yksecr_AoTYJxUR6NF0w&expires=1570412201
+http://23.237.22.207:8000/tvonlinehd/108_.m3u8?md5=b39gJgPDhl8kF3t5pLz3-Q&expires=1570424622
 #EXTINF:-1, Disney channel 2
-http://23.237.22.207:8000/tvonlinehd/92_.m3u8?md5=6WWtuwmjd9MDp94IlguaVw&expires=1570412201
+http://23.237.22.207:8000/tvonlinehd/92_.m3u8?md5=szn3ebLJ-HK_jpqdcCnxKA&expires=1570424622
 #EXTINF:-1, nick
-http://23.237.22.207:8000/tvonlinehd/155_.m3u8?md5=uFRBMznlH7jU4CVG0VVqrA&expires=1570412201
+http://23.237.22.207:8000/tvonlinehd/155_.m3u8?md5=OfxUpPrYsFOLp4e6pVgWfA&expires=1570424622
+#EXTINF:-1, nick jr
+http://23.237.22.207:8000/tvonlinehd/89_.m3u8?md5=CptE4r4P3XSi8JRUmTp7xA&expires=1570424622
+#EXTINF:-1, nick toons
+http://23.237.22.207:8000/tvonlinehd/90_.m3u8?md5=_BDWZ3ow6VtPVXmRVP4jIg&expires=1570424622
+#EXTINF:-1, Boomerang
+http://23.237.22.207:8000/tvonlinehd/85_.m3u8?md5=VmWt-Ne8dTgd6T5Qs0-5qA&expires=1570424623
