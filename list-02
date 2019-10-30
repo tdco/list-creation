@@ -2,138 +2,138 @@
 #EXTINF:-1, Foro tv
 https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8
 #EXTINF:-1, Televiza estrellas
-http://23.237.22.207:8000/tv-onlinehd/52_.m3u8?md5=S034ryZhTURCyzIOEgrZmQ&expires=1572417362
+http://23.237.22.207:8080/tv-onlinehd/52.m3u8?md5=O9HMIWAqmDEbJRUVr36MPA&expires=1572505023
 #EXTINF:-1, FX
-http://23.237.22.207:8000/tv-onlinehd/53_.m3u8?md5=SP_zNAkcO2mPGJgC9QNteA&expires=1572417362
+http://23.237.22.207:8080/tv-onlinehd/53.m3u8?md5=0-BT1X6Hxb/1BM3Ey2m6mg&expires=1572505024
 #EXTINF:-1, AXN
-http://23.237.22.207:8000/tv-onlinehd/62_.m3u8?md5=xRc7Y2m8gy0qKGhq1L_i5w&expires=1572417362
+http://23.237.22.207:8080/tv-onlinehd/62.m3u8?md5=ekE2fut23gtcaYaIEDoRTQ&expires=1572505024
 #EXTINF:-1, Studio Universal
-http://23.237.22.207:8000/tv-onlinehd/65_.m3u8?md5=HIZo19XI0NEyLmb_Az23Tw&expires=1572417362
+http://23.237.22.207:8080/tv-onlinehd/65.m3u8?md5=82bb5tWA3wyYoXmhKE/lrQ&expires=1572505024
 #EXTINF:-1, Warner
-http://23.237.22.207:8000/tv-onlinehd/47_.m3u8?md5=39OzsQ41Y11et1n4O0hBOA&expires=1572417362
+http://23.237.22.207:8080/tv-onlinehd/47.m3u8?md5=8Yzt3vtQdQ24dNC-qTOKkg&expires=1572505024
 #EXTINF:-1, Telemundo
-http://23.237.22.207:8000/tv-onlinehd/112_.m3u8?md5=mgxYghHjCB_OW7l4M8fKgA&expires=1572417363
+http://23.237.22.207:8080/tv-onlinehd/112.m3u8?md5=RexkG6P2Cd/0fv-UoCdRLg&expires=1572505024
 #EXTINF:-1, Fox premium series
-http://23.237.22.207:8000/tv-onlinehd/49_.m3u8?md5=sycB5TIT0onesHbOPehKRQ&expires=1572417363
+http://23.237.22.207:8080/tv-onlinehd/49.m3u8?md5=WCdy8IG0ilVeNCC8Je7MzQ&expires=1572505025
 #EXTINF:-1, Fox premium series opcion 2
-http://23.237.22.207:8000/tv-onlinehd/16_.m3u8?md5=DSfhWSGX9t7fGVh-_Lmwdg&expires=1572417363
+http://23.237.22.207:8080/tv-onlinehd/16.m3u8?md5=UbWI7YjjvVn-OM1vsrrUUg&expires=1572505025
 #EXTINF:-1, NatGeo
-http://23.237.22.207:8000/tv-onlinehd/71_.m3u8?md5=LvPQov9wL12SFkDoTO2nWQ&expires=1572417363
+http://23.237.22.207:8080/tv-onlinehd/71.m3u8?md5=QLG/BUwcP5W-29WLIGPyKQ&expires=1572505025
 #EXTINF:-1, NatGeo Wild
-http://23.237.22.207:8000/tv-onlinehd/72_.m3u8?md5=yCPq92BVEG3i5CqxWJGZvQ&expires=1572417363
+http://23.237.22.207:8080/tv-onlinehd/72.m3u8?md5=QiNJS/nI/NYyayDXifL48A&expires=1572505025
 #EXTINF:-1, E
-http://23.237.22.207:8000/tv-onlinehd/98_.m3u8?md5=U5ag-1061-unriDwJCvf_w&expires=1572417363
+http://23.237.22.207:8080/tv-onlinehd/98.m3u8?md5=XvL890wlDqjZTBfJWbzk/A&expires=1572505025
 #EXTINF:-1, Discovery science
-http://23.237.22.207:8000/tv-onlinehd/101_.m3u8?md5=mUgc-18BztL_M3XIFI8Wxg&expires=1572417363
+http://23.237.22.207:8080/tv-onlinehd/101.m3u8?md5=QUIstZ6/Az44zUamQ89sZQ&expires=1572505025
 #EXTINF:-1, Max up
-http://23.237.22.207:8000/tv-onlinehd/106_.m3u8?md5=Dq3nP9RiX-M6Q9rFbKmnJg&expires=1572417364
+http://23.237.22.207:8080/tv-onlinehd/106.m3u8?md5=zWFPOVnTr/6Gq03mneZJ6w&expires=1572505025
 #EXTINF:-1, TLC
-http://23.237.22.207:8000/tv-onlinehd/107_.m3u8?md5=bUgJs9-3piou7rzm0coOBg&expires=1572417364
+http://23.237.22.207:8080/tv-onlinehd/107.m3u8?md5=9UqDTGD8mtB03hiaDxBqxQ&expires=1572505026
 #EXTINF:-1, tbs
-http://23.237.22.207:8000/tv-onlinehd/128_.m3u8?md5=S4A6TQ9cWKFfRT40ibhoOw&expires=1572417364
+http://23.237.22.207:8080/tv-onlinehd/128.m3u8?md5=iP5tKEzzHKfAAU1pe89D5w&expires=1572505026
 #EXTINF:-1, tcm
-http://23.237.22.207:8000/tv-onlinehd/129_.m3u8?md5=jw3tMUThTroe6q76vBD0mA&expires=1572417364
+http://23.237.22.207:8080/tv-onlinehd/129.m3u8?md5=hwqrkPf5MH0PAqHWHSAdVQ&expires=1572505026
 #EXTINF:-1, Discovery World
-http://23.237.22.207:8000/tv-onlinehd/137_.m3u8?md5=uISJE3ZtnkETIYX1xBgX4g&expires=1572417364
+http://23.237.22.207:8080/tv-onlinehd/137.m3u8?md5=gqGZ0AjOF7xnIR9yApw3pw&expires=1572505026
 #EXTINF:-1, Univision
-http://23.237.22.207:8000/tv-onlinehd/138_.m3u8?md5=JMFBbB3Me3V4RKhq9Wng2g&expires=1572417364
+http://23.237.22.207:8080/tv-onlinehd/138.m3u8?md5=TH2vkwiTk4jPJLUVAUPtXw&expires=1572505026
 #EXTINF:-1, El gourmet
-http://23.237.22.207:8000/tv-onlinehd/77_.m3u8?md5=C15gAeie0Y5idltyNa5qvQ&expires=1572417364
+http://23.237.22.207:8080/tv-onlinehd/77.m3u8?md5=4iM2w2XcKvZkf8SUZEnvBw&expires=1572505026
 #EXTINF:-1, Discovery theater
-http://23.237.22.207:8000/tv-onlinehd/124_.m3u8?md5=HPYEzTfqtciM-5aC3a3mkA&expires=1572417365
+http://23.237.22.207:8080/tv-onlinehd/124.m3u8?md5=-Ook/7OdFg3WOygMJQKw3Q&expires=1572505026
 #EXTINF:-1, DHE
-http://23.237.22.207:8000/tv-onlinehd/30_.m3u8?md5=7B4LB4FdYHKS2eDfnWzyCg&expires=1572417365
+http://23.237.22.207:8080/tv-onlinehd/30.m3u8?md5=dHloQ78eHStrRB1s6DI6sw&expires=1572505027
 #EXTINF:-1, Max prime
-http://23.237.22.207:8000/tv-onlinehd/63_.m3u8?md5=z4Y9CL4hdckh2ZMOb6r9Zw&expires=1572417365
+http://23.237.22.207:8080/tv-onlinehd/63.m3u8?md5=E3Bg9DcDDl9hL78HY7vNUg&expires=1572505027
 #EXTINF:-1, Pasiones
-http://23.237.22.207:8000/tv-onlinehd/94_.m3u8?md5=mFmBjgcuKXoDVohdlhq3pQ&expires=1572417365
+http://23.237.22.207:8080/tv-onlinehd/94.m3u8?md5=ahtZMUtblGkPdnzviuvhdQ&expires=1572505027
 #EXTINF:-1, Azteca corazon
-http://23.237.22.207:8000/tv-onlinehd/127_.m3u8?md5=xOs12A_uQM789kl3NiZ7wA&expires=1572417365
+http://23.237.22.207:8080/tv-onlinehd/127.m3u8?md5=W3qIquCTuvMYPB/scbBoug&expires=1572505027
 #EXTINF:-1, Cine latino
-http://23.237.22.207:8000/tv-onlinehd/100_.m3u8?md5=FgByFvSZRdMWfSDhBPK8yg&expires=1572417365
+http://23.237.22.207:8080/tv-onlinehd/100.m3u8?md5=aeHumvd8d51hKxyObIPW-A&expires=1572505027
 #EXTINF:-1, ID
-http://23.237.22.207:8000/tv-onlinehd/70_.m3u8?md5=Br4Dkf11C3mrrdqK7yl1dQ&expires=1572417365
+http://23.237.22.207:8080/tv-onlinehd/70.m3u8?md5=MqXryUlO1u84PMyPbUJ7fQ&expires=1572505027
 #EXTINF:-1, Investigation Discovery
-http://23.237.22.207:8000/tv-onlinehd/70_.m3u8?md5=uQ2jmWrhGKJl_DIZdMQl_g&expires=1572417366
+http://23.237.22.207:8080/tv-onlinehd/70.m3u8?md5=MqXryUlO1u84PMyPbUJ7fQ&expires=1572505027
 #EXTINF:-1, Canal 5
-http://23.237.22.207:8000/tv-onlinehd/26_.m3u8?md5=5ml_-Mn9hedWj6gSCdPWmQ&expires=1572417366
+http://23.237.22.207:8080/tv-onlinehd/26.m3u8?md5=/h8gulOAXlwgSObLCtwFDA&expires=1572505028
 #EXTINF:-1, Azteca 7
-http://23.237.22.207:8000/tv-onlinehd/25_.m3u8?md5=RFmHC-xR902GSzNF7jzy_A&expires=1572417366
+http://23.237.22.207:8080/tv-onlinehd/25.m3u8?md5=BLUxjiUo6nzB3o/AvoBroQ&expires=1572505028
 #EXTINF:-1, Fox channel
-http://23.237.22.207:8000/tv-onlinehd/30_.m3u8?md5=wnp8QUQxk2VtO63mF0uZmw&expires=1572417366
+http://23.237.22.207:8080/tv-onlinehd/30.m3u8?md5=gdcidEokleAFQD/aiSry6A&expires=1572505028
 #EXTINF:-1, TNT
-http://23.237.22.207:8000/tv-onlinehd/31_.m3u8?md5=QyCibqzTuVS4fZhgDFdibw&expires=1572417366
+http://23.237.22.207:8080/tv-onlinehd/31.m3u8?md5=Wq0FTkMlwLk0A5EeuX5WIA&expires=1572505028
 #EXTINF:-1, TNT series
-http://23.237.22.207:8000/tv-onlinehd/32_.m3u8?md5=19iLNcFc7-xhi3hq_y7kbg&expires=1572417366
+http://23.237.22.207:8080/tv-onlinehd/32.m3u8?md5=/Oe3o0nzfB2JRqaBQwlGgg&expires=1572505028
 #EXTINF:-1, Cinemax
-http://23.237.22.207:8000/tv-onlinehd/34_.m3u8?md5=5_3qcfjgMEPViUcdY5nrMg&expires=1572417366
+http://23.237.22.207:8080/tv-onlinehd/34.m3u8?md5=gxnVoZ6VZ4sJxxQjD4yz8Q&expires=1572505028
 #EXTINF:-1, HBO
-http://23.237.22.207:8000/tv-onlinehd/35_.m3u8?md5=XCTfFuRNn9AhCpRExv3K3Q&expires=1572417367
+http://23.237.22.207:8080/tv-onlinehd/35.m3u8?md5=jJmCFN/DT6J6GmvFEO-3vg&expires=1572505028
 #EXTINF:-1, HBO2
-http://23.237.22.207:8000/tv-onlinehd/36_.m3u8?md5=i-TZvSU8Y0_eV-ztJ7LVBQ&expires=1572417367
+http://23.237.22.207:8080/tv-onlinehd/36.m3u8?md5=kjYAgOQk78/iC5yLg5uDOQ&expires=1572505029
 #EXTINF:-1, HBO 2
-http://23.237.22.207:8000/tv-onlinehd/36_.m3u8?md5=i-TZvSU8Y0_eV-ztJ7LVBQ&expires=1572417367
+http://23.237.22.207:8080/tv-onlinehd/36.m3u8?md5=kjYAgOQk78/iC5yLg5uDOQ&expires=1572505029
 #EXTINF:-1, HBO Family
-http://23.237.22.207:8000/tv-onlinehd/38_.m3u8?md5=E4cLNx_7anmlei8k5Pn1xg&expires=1572417367
+http://23.237.22.207:8080/tv-onlinehd/38.m3u8?md5=eGrWlgkxd7cdhbWgrlhREw&expires=1572505029
 #EXTINF:-1, HBO Signature
-http://23.237.22.207:8000/tv-onlinehd/39_.m3u8?md5=KOX1cEOFhAe0hi5GTeAFqg&expires=1572417368
+http://23.237.22.207:8080/tv-onlinehd/39.m3u8?md5=SCIYCLa5aON61kuDmMMB5w&expires=1572505029
 #EXTINF:-1, Universal
-http://23.237.22.207:8000/tv-onlinehd/40_.m3u8?md5=8_KkCTuRml1ltJlg845-ZA&expires=1572417368
+http://23.237.22.207:8080/tv-onlinehd/40.m3u8?md5=61pRfo8pskSZJZ5QeRaP/A&expires=1572505029
 #EXTINF:-1, syfy
-http://23.237.22.207:8000/tv-onlinehd/41_.m3u8?md5=3psm8eoM1aMWqF3MZ_5hYw&expires=1572417368
+http://23.237.22.207:8080/tv-onlinehd/41.m3u8?md5=W5MFps5vcXKoL89vGJ1ZnA&expires=1572505029
 #EXTINF:-1, Space
-http://23.237.22.207:8000/tv-onlinehd/42_.m3u8?md5=OZXUDBQI7ZBmFirOAJmiQA&expires=1572417368
+http://23.237.22.207:8080/tv-onlinehd/42.m3u8?md5=w4ISoHImIXi4p3Bl6b/vVw&expires=1572505029
 #EXTINF:-1, Sony
-http://23.237.22.207:8000/tv-onlinehd/43_.m3u8?md5=RcRBhXbENduLxjLiROJrYw&expires=1572417368
+http://23.237.22.207:8080/tv-onlinehd/43.m3u8?md5=Mh/fjNSuLjbbDH-7QBZebg&expires=1572505030
 #EXTINF:-1, Paramount channel
-http://23.237.22.207:8000/tv-onlinehd/44_.m3u8?md5=3NniQ00Mi4ltCbxQZ-niLg&expires=1572417368
+http://23.237.22.207:8080/tv-onlinehd/44.m3u8?md5=jrgtaJ82aYgz90vFSV/Bwg&expires=1572505030
 #EXTINF:-1, History
-http://23.237.22.207:8000/tv-onlinehd/45_.m3u8?md5=9PJkS8pSzt6Y0EcnIFXlfg&expires=1572417368
+http://23.237.22.207:8080/tv-onlinehd/45.m3u8?md5=tH7YjUErATVeF8tLTBwTZQ&expires=1572505030
 #EXTINF:-1, Golden plus
-http://23.237.22.207:8000/tv-onlinehd/46_.m3u8?md5=Kc8LSzYWmpkDkNy9CikJBA&expires=1572417369
+http://23.237.22.207:8080/tv-onlinehd/46.m3u8?md5=P/jp189QbmPjx1OmA1fSVQ&expires=1572505030
 #EXTINF:-1, Golden Edge
-http://23.237.22.207:8000/tv-onlinehd/47_.m3u8?md5=AQMZF6TD8YYFRR9Uf7fOSQ&expires=1572417369
+http://23.237.22.207:8080/tv-onlinehd/47.m3u8?md5=zOD4BI0YrVZcr4DNNkxXjw&expires=1572505030
 #EXTINF:-1, Golden premier
-http://23.237.22.207:8000/tv-onlinehd/48_.m3u8?md5=R2GXi7iZePIY2q5WH6UqtQ&expires=1572417369
+http://23.237.22.207:8080/tv-onlinehd/48.m3u8?md5=CvmYRWx46jwgv9rO7e8mKg&expires=1572505030
 #EXTINF:-1, Cine canal
-http://23.237.22.207:8000/tv-onlinehd/49_.m3u8?md5=rrxKCxMsbqiQo-FQKIlcRw&expires=1572417369
+http://23.237.22.207:8080/tv-onlinehd/49.m3u8?md5=OjvwUXquM4QU52vtJLy9/g&expires=1572505030
 #EXTINF:-1, Fox Action
-http://23.237.22.207:8000/tv-onlinehd/51_.m3u8?md5=B8JYfSsRuwVhxJh7Py8yLQ&expires=1572417369
+http://23.237.22.207:8080/tv-onlinehd/51.m3u8?md5=3zg2TVFLwpXwgk05QkhK1g&expires=1572505031
 #EXTINF:-1, Fox movies
-http://23.237.22.207:8000/tv-onlinehd/53_.m3u8?md5=sOGqgUTucR8d2ZBKaic4nQ&expires=1572417369
+http://23.237.22.207:8080/tv-onlinehd/53.m3u8?md5=o/kGgJCx13jPGRbjwIaCqA&expires=1572505031
 #EXTINF:-1, Fox family
-http://23.237.22.207:8000/tv-onlinehd/54_.m3u8?md5=nG9Hb8GJQNYDOkjoaxdUfw&expires=1572417369
+http://23.237.22.207:8080/tv-onlinehd/54.m3u8?md5=YCi-/N9Lghp2DYU5HWy3pw&expires=1572505031
 #EXTINF:-1, Fox comedy
-http://23.237.22.207:8000/tv-onlinehd/55_.m3u8?md5=R-7SMizmK_uaiaUKliis4Q&expires=1572417370
+http://23.237.22.207:8080/tv-onlinehd/55.m3u8?md5=xLxbD8yheENxTr3kzrnGDQ&expires=1572505031
 #EXTINF:-1, Fox cinema
-http://23.237.22.207:8000/tv-onlinehd/56_.m3u8?md5=nr7SBq24QbwuMR-lYJPsqg&expires=1572417370
+http://23.237.22.207:8080/tv-onlinehd/56.m3u8?md5=qI-6m7TOyIy-xROavH3MGQ&expires=1572505031
 #EXTINF:-1, Fox life
-http://23.237.22.207:8000/tv-onlinehd/57_.m3u8?md5=d5JOcYR0y3CH1l6iQlZ05w&expires=1572417370
+http://23.237.22.207:8080/tv-onlinehd/57.m3u8?md5=DodOxhMbAn29w2AwLHQ79g&expires=1572505031
 #EXTINF:-1, Distrito comedia
-http://23.237.22.207:8000/tv-onlinehd/58_.m3u8?md5=Zngbu8060YN0Ny8yY6uBXA&expires=1572417370
+http://23.237.22.207:8080/tv-onlinehd/58.m3u8?md5=X4VDZojH0a2bU/r6n0fyDQ&expires=1572505031
 #EXTINF:-1, Comedy Central
-http://23.237.22.207:8000/tv-onlinehd/59_.m3u8?md5=nMeEeDx075nUt_BtBHQLzA&expires=1572417370
+http://23.237.22.207:8080/tv-onlinehd/59.m3u8?md5=yZ-sqxhyErUNqzLO-goYbQ&expires=1572505032
 #EXTINF:-1, Las estrellas
-http://23.237.22.207:8000/tv-onlinehd/60_.m3u8?md5=M-s36XspuQK5_9tMDu6Img&expires=1572417370
+http://23.237.22.207:8080/tv-onlinehd/60.m3u8?md5=rTimDjAJ4bA0DWWneYC8/Q&expires=1572505032
 #EXTINF:-1, Tlnovelas
-http://23.237.22.207:8000/tv-onlinehd/61_.m3u8?md5=lrMVyIIXlJwije5iSp6TIQ&expires=1572417370
+http://23.237.22.207:8080/tv-onlinehd/61.m3u8?md5=7A/jrCLgyvqtB0CKKsTUQA&expires=1572505032
 #EXTINF:-1, Azteca mundo
-http://23.237.22.207:8000/tv-onlinehd/62_.m3u8?md5=FUF7QANXu8jGh2kjw7hL5A&expires=1572417371
+http://23.237.22.207:8080/tv-onlinehd/62.m3u8?md5=OOvtzbMHNc5TNHGQxOnnMQ&expires=1572505032
 #EXTINF:-1, Galavision
-http://23.237.22.207:8000/tv-onlinehd/66_.m3u8?md5=rgKFZXpTPkOsoZ_2e7-1_g&expires=1572417371
+http://23.237.22.207:8080/tv-onlinehd/66.m3u8?md5=368xCBZVWuXpez3UI/KeVw&expires=1572505032
 #EXTINF:-1, Discovery
-http://23.237.22.207:8000/tv-onlinehd/67_.m3u8?md5=bNmSw1XojIttOBo7ZoByOA&expires=1572417371
+http://23.237.22.207:8080/tv-onlinehd/67.m3u8?md5=Qbv3yziCya3NcteC6Rb2vw&expires=1572505032
 #EXTINF:-1, discovery turbo
-http://23.237.22.207:8000/tv-onlinehd/68_.m3u8?md5=6yLXNABiuys4jwTiSvRR_w&expires=1572417371
+http://23.237.22.207:8080/tv-onlinehd/68.m3u8?md5=ZuKaFS4oo9RzR/Mftocy6Q&expires=1572505032
 #EXTINF:-1, discovery h&h
-http://23.237.22.207:8000/tv-onlinehd/69_.m3u8?md5=mWR_ueSeAR6ZZNAH1wJDZg&expires=1572417371
+http://23.237.22.207:8080/tv-onlinehd/69.m3u8?md5=nL8JOrSSgMER7mU6TZPYxA&expires=1572505033
 #EXTINF:-1, Animal planet
-http://23.237.22.207:8000/tv-onlinehd/81_.m3u8?md5=zv9VyN8L8l5UicG8wnMsnQ&expires=1572417371
+http://23.237.22.207:8080/tv-onlinehd/81.m3u8?md5=RW1RrHVWpudd5QhyG92q8w&expires=1572505033
 #EXTINF:-1, History 2
-http://23.237.22.207:8000/tv-onlinehd/82_.m3u8?md5=W47mEv6Cpr7i2ATXvTqzSg&expires=1572417371
+http://23.237.22.207:8080/tv-onlinehd/82.m3u8?md5=r8uAbeFJo3s/GE-RdWA0eA&expires=1572505033
 #EXTINF:-1, A&E
-http://23.237.22.207:8000/tv-onlinehd/83_.m3u8?md5=5APr1Od925xkralPnlMRlg&expires=1572417372
+http://23.237.22.207:8080/tv-onlinehd/83.m3u8?md5=-I7StlcIdgM62j4DxFo/qA&expires=1572505033
 #EXTINF:-1, AMC
-http://23.237.22.207:8000/tv-onlinehd/92_.m3u8?md5=xWM2cA64rVvoYd9s92hx1Q&expires=1572417372
+http://23.237.22.207:8080/tv-onlinehd/92.m3u8?md5=rkPOfhaO2r4Sf4-i1nbLHA&expires=1572505033
 #EXTINF:-1, Multi premier
-http://23.237.22.207:8000/tv-onlinehd/93_.m3u8?md5=2Ee_hvjhHYVcjAwhBZ6oyQ&expires=1572417372
+http://23.237.22.207:8080/tv-onlinehd/93.m3u8?md5=EetAfsbj9HMEZW8cD0tUZQ&expires=1572505033
