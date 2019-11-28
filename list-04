@@ -1,47 +1,47 @@
 #EXTM3U
 #EXTINF:-1, espn+
-http://23.237.173.108:8080/tv-onlinehd/4_.m3u8?md5=HKPhoUOsULm8aY/SI39TwA&expires=1575002155
+http://23.237.173.108:8080/tv-onlinehd/4_.m3u8?md5=qp5feTo2DErleIVPHDauXg&expires=1575003523
 #EXTINF:-1, Fox sports
-http://23.237.173.108:8080/tv-onlinehd/5_.m3u8?md5=tp9zL-oHWrAX1ZdWAJ3pYA&expires=1575002155
+http://23.237.173.108:8080/tv-onlinehd/5_.m3u8?md5=xPtV1BsNWaDUhPCBwhLyTQ&expires=1575003524
 #EXTINF:-1, Fox sports 2
-http://23.237.173.108:8080/tv-onlinehd/6_.m3u8?md5=SzdYbsPLKr74PS9mOlwtIg&expires=1575002155
+http://23.237.173.108:8080/tv-onlinehd/6_.m3u8?md5=qzGa-EXt7HdI9OMsQ2IE2w&expires=1575003524
 #EXTINF:-1, Fox sports 3
-http://23.237.173.108:8080/tv-onlinehd/7_.m3u8?md5=9R9IFPZQQkWFycaNSatcNw&expires=1575002156
+http://23.237.173.108:8080/tv-onlinehd/7_.m3u8?md5=x81s0HUTQLZ7JlnlPUlUZg&expires=1575003524
 #EXTINF:-1, espn
-http://23.237.173.108:8080/tv-onlinehd/8_.m3u8?md5=//Ossj77HA2EEeVUORhpFw&expires=1575002156
+http://23.237.173.108:8080/tv-onlinehd/8_.m3u8?md5=96hrXcH05xsEXl-W8t29lw&expires=1575003524
 #EXTINF:-1, espn 2
-http://23.237.173.108:8080/tv-onlinehd/9_.m3u8?md5=3oziMM1M6/mpB-N0jG6Tgw&expires=1575002156
+http://23.237.173.108:8080/tv-onlinehd/9_.m3u8?md5=JmcyqMq2a3uXcF2iVDb6KQ&expires=1575003524
 #EXTINF:-1, espn 3
-http://23.237.173.108:8080/tv-onlinehd/10_.m3u8?md5=pcMyq7CP8UUNzjLU9YLxrg&expires=1575002156
+http://23.237.173.108:8080/tv-onlinehd/10_.m3u8?md5=unpC7DRTqZl8AY9vgP-O4Q&expires=1575003524
 #EXTINF:-1, Fox sports opcion 2
-http://23.237.173.108:8080/tv-onlinehd/11_.m3u8?md5=mMp-gRNgf7Uzsb7Rr/DRvw&expires=1575002156
+http://23.237.173.108:8080/tv-onlinehd/11_.m3u8?md5=8u440fcW26okWZYiV1YoDA&expires=1575003525
 #EXTINF:-1, Fox sports 2 opcion 2
-http://23.237.173.108:8080/tv-onlinehd/12_.m3u8?md5=JMnh6Em0emibKKT0Lx4hhw&expires=1575002156
+http://23.237.173.108:8080/tv-onlinehd/12_.m3u8?md5=9wMJNOgGEv0I55o9fA9Dng&expires=1575003525
 #EXTINF:-1, Fox sports 3 opcion 2
-http://23.237.173.108:8080/tv-onlinehd/13_.m3u8?md5=pJmnsjZtUjlbl/Zl3EC7Ew&expires=1575002156
+http://23.237.173.108:8080/tv-onlinehd/13_.m3u8?md5=e5HwwNNYJvSWhLMoSBd7Hg&expires=1575003525
 #EXTINF:-1, TUDN
-http://23.237.173.108:8080/tv-onlinehd/14_.m3u8?md5=5zLbLkoLgvuTWSGicJCx0A&expires=1575002157
+http://23.237.173.108:8080/tv-onlinehd/14_.m3u8?md5=Q3He1hObny3e2-642YR6Ug&expires=1575003525
 #EXTINF:-1, Goltv
-http://23.237.173.108:8080/tv-onlinehd/20_.m3u8?md5=ahYltmBjxBtU9qW4th03wA&expires=1575002157
+http://23.237.173.108:8080/tv-onlinehd/20_.m3u8?md5=vP6Yy5/-mAOFm2yKawVYKw&expires=1575003525
 #EXTINF:-1, TyC sports
-http://23.237.173.108:8080/tv-onlinehd/21_.m3u8?md5=RZ62HdNBT-VwK2iN5LqtDg&expires=1575002157
+http://23.237.173.108:8080/tv-onlinehd/21_.m3u8?md5=hpVaiqjMDhWH9K1oYAX/Gg&expires=1575003525
 #EXTINF:-1, Fox sports lat
-http://23.237.173.108:8080/tv-onlinehd/22_.m3u8?md5=h5-IMVgJyuO0UWsDFyf2pA&expires=1575002157
+http://23.237.173.108:8080/tv-onlinehd/22_.m3u8?md5=XG3u2SKlJIHcAfefjLsATA&expires=1575003525
 #EXTINF:-1, TNT sports
-http://23.237.173.108:8080/tv-onlinehd/23_.m3u8?md5=gTHRsHZwAEt8odiPHYZAog&expires=1575002157
+http://23.237.173.108:8080/tv-onlinehd/23_.m3u8?md5=Fi2MP3GsDIoasc3IzcmckA&expires=1575003526
 #EXTINF:-1, Win sport
-http://23.237.173.108:8080/tv-onlinehd/24_.m3u8?md5=XuN-lAImuCiDHu5Ad1pxVA&expires=1575002157
+http://23.237.173.108:8080/tv-onlinehd/24_.m3u8?md5=bkSSBCNvGtsn-TtfaXCIRA&expires=1575003526
 #EXTINF:-1, Directv sport
-http://23.237.173.108:8080/tv-onlinehd/25_.m3u8?md5=WSsbKvBmGCiKopPYTLNgVg&expires=1575002157
+http://23.237.173.108:8080/tv-onlinehd/25_.m3u8?md5=r3QNF3umZEktYkl0CuTMJg&expires=1575003526
 #EXTINF:-1, Directv sport 2
-http://23.237.173.108:8080/tv-onlinehd/26_.m3u8?md5=J2q4jGo2GPn/4HRZv9jNEw&expires=1575002158
+http://23.237.173.108:8080/tv-onlinehd/26_.m3u8?md5=j6zlBl5GZAIaKkp06n4XLQ&expires=1575003526
 #EXTINF:-1, NFL
-http://23.237.173.108:8080/tv-onlinehd/112_.m3u8?md5=lMADuATWzje7I59eiKpd2w&expires=1575002158
+http://23.237.173.108:8080/tv-onlinehd/112_.m3u8?md5=fOlflxldR3HkxuSL-FFxLw&expires=1575003526
 #EXTINF:-1, espn opcion 2
-http://23.237.173.108:8080/tv-onlinehd/1_.m3u8?md5=BfQ3XyF6NCPlsmCZRdJNBQ&expires=1575002158
+http://23.237.173.108:8080/tv-onlinehd/1_.m3u8?md5=b3SgoImjcG8sI4WxjG7V1w&expires=1575003526
 #EXTINF:-1, espn 3 opcion 2
-http://23.237.173.108:8080/tv-onlinehd/3_.m3u8?md5=oQmEGmiTrixhj7/2aAAqAw&expires=1575002158
+http://23.237.173.108:8080/tv-onlinehd/3_.m3u8?md5=jkcPHrFJJ02oW-B7WMgewg&expires=1575003526
 #EXTINF:-1, espn 2 opcion 2
-http://23.237.173.108:8080/tv-onlinehd/2_.m3u8?md5=dP45bmPv-BADcTOeyoejxQ&expires=1575002158
+http://23.237.173.108:8080/tv-onlinehd/2_.m3u8?md5=Yi/tWEqTWPrTRVYxvtNdWw&expires=1575003527
 #EXTINF:-1, Formula 1
-http://23.237.173.108:8080/tv-onlinehd/118_.m3u8?md5=Kh-Xim7qGehq7ZdNQV0GLA&expires=1575002158
+http://23.237.173.108:8080/tv-onlinehd/118_.m3u8?md5=sHwWh6bM6YGbfdWjvEDZcA&expires=1575003527
